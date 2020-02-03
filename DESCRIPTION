@@ -22,5 +22,8 @@ Imports:
     janitor,
     fs,
     assertthat,
-    tibble
+    tibble,
+    magrittr,
+    stringr,
+    stats
 RoxygenNote: 7.0.2

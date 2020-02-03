@@ -1,29 +1,40 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-saapsim
-=======
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# saapsim
 
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) <!-- badges: end -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+<!-- badges: end -->
 
 The goal of saapsim is to ...
 
-Installation
-------------
+## Installation
 
 The development version is on [GitHub](https://github.com/), accessed with:
 
-``` r
+``` {r}
 #install.packages("devtools")
 #devtools::install_github("vanichols/saapsim")
 ```
 
-Example
--------
+## Example
 
 You can read in 'out' files from a folder with a function""
 
-``` r
+```{r example}
 #library(saapsim)
 #mydir <- "/apsim_results_folder"
 #saf_readapout(mydir)
