@@ -38,7 +38,7 @@ saf_readapout <- function(fold_dir) {
                    skip = 4,
                    na = "?",
                    col_names = myrawdatnames) %>%
-        mutate(Date = lubridate::dmy(Date),
+        dplyr::mutate(Date = lubridate::dmy(Date),
                doy = lubridate::yday(Date))
     })
   }
@@ -48,18 +48,19 @@ saf_readapout <- function(fold_dir) {
     dplyr::mutate(res = path %>% purrr::map(helper_readrawoutfile)) %>%
     tidyr::unnest(cols = c(res)) %>%
     janitor::clean_names() %>%
-    dplyr::mutate(file = )
+    dplyr::mutate(file = stringr::str_extract_all(file, "\\w+(?=.out)")) %>%
+    tidyr::unnest(cols = c(file))
+
 
   return(dat)
 }
 
 
-# mydir <- "../../../Box Sync/Gina_APSIM_modeling/sims_prelim-testing-gina/"
-# library(fs)
-# dir_ls(mydir)
-#
-# sa_readapout(mydir) %>%
-#   select(file) %>%
-#   mutate(file2 = str_extract(file, "\\/([^.\\/]+)[.out]"))
+#mydir <- "../../../Box Sync/Gina_APSIM_modeling/sims_prelim-testing-gina/"
+#library(fs)
+#dir_ls(mydir)
+
+#saf_readapout(mydir) %>%
+#  select(file)
 
 

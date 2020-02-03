@@ -4,14 +4,13 @@ saapsim
 =======
 
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) <!-- badges: end -->
-
+<!-- badges: end -->
 The goal of saapsim is to ...
 
 Installation
 ------------
 
-The development version is on [GitHub](https://github.com/), accessed with:
+The development version is on [GitHub](https://github.com/), accessed with
 
 ``` r
 #install.packages("devtools")
