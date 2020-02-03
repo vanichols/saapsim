@@ -1,4 +1,4 @@
-#' sa_readapout
+#' saf_readapout
 #'
 #' @param fold_dir A character string of the file path to the folder with the APSIM out files in it
 #'
@@ -7,10 +7,10 @@
 #'
 #' @examples
 #' No examples yet
-sa_readapout <- function(fold_dir) {
+saf_readapout <- function(fold_dir) {
   # read in out files created by apsim --------------------------------------
 
-  assert_that(is.character(fold_dir), msg = "fold_dir should be a character")
+  assertthat::assert_that(is.character(fold_dir), msg = "fold_dir should be a character")
 
   # list the files w/out extensions (as a tibble that can be filtered)
   myrawouts <- fs::dir_ls(fold_dir) %>%
