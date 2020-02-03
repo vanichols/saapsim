@@ -1,0 +1,26 @@
+Package: saapsim
+Title: Provides easy access to functions the Archontoulis Lab regularly uses
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gina",
+           family = "Nichols",
+           role = c("aut", "cre"),
+           email = "virginia.nichols@gmail.com",
+           comment = "0000-0003-1850-8243")
+Description: Using R to process APSIM files is great, but there are many tasks that are done repeatedly. saapsim provides those tasks in functions, ensuring consistent behavior.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+Imports: 
+    dplyr,
+    lubridate,
+    readr,
+    ggplot2,
+    purrr,
+    tidyr,
+    janitor,
+    fs,
+    assertthat,
+    tibble
+RoxygenNote: 7.0.2
