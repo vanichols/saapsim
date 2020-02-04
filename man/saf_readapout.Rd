@@ -15,6 +15,3 @@ A tibble with the data from all the out files (you will need to filter them)
 \description{
 saf_readapout
 }
-\examples{
-No examples yet
-}

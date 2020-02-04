@@ -7,14 +7,11 @@
 saf_fitNresp(mydata)
 }
 \arguments{
-\item{mydata}{The N resp data that has been grouped (site, year, rotation) and nested. See the included data 'sad_sawyer' for an example}
+\item{mydata}{The N resp data that has been grouped (site, year, rotation) and nested. See the included data 'sad_exdata' for an example}
 }
 \value{
 A tibble with the data and fits nested
 }
 \description{
 saf_fitNresp
-}
-\examples{
-No examples yet
 }

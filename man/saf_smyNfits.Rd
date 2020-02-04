@@ -15,6 +15,3 @@ A tibble (nothing nested) with the fitted parameters for each model, plus the R2
 \description{
 saf_smyNfits
 }
-\examples{
-No examples yet
-}
