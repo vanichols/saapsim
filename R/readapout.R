@@ -44,7 +44,7 @@ saf_readapout <- function(fold_dir) {
   }
 
   dat <- myraws %>%
-    dplyr::mutate(path = paste0(file)) %>%
+    dplyr::mutate(path = file) %>%
     dplyr::mutate(res = path %>% purrr::map(helper_readrawoutfile)) %>%
     tidyr::unnest(cols = c(res)) %>%
     janitor::clean_names() %>%
