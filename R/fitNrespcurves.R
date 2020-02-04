@@ -7,7 +7,7 @@
 #' @export
 #'
 saf_fitNresp <- function(mydata) {
-  assertthat::assert_that(is.tibble(mydata), msg = "Make your data a tibble")
+  assertthat::assert_that(tibble::is_tibble(mydata), msg = "Make your data a tibble")
   assertthat::assert_that("data" %in% colnames(mydata) == TRUE,
                           msg = "Data should be in nested format with column named 'data'. Did you group_by?\nSuggested grouping: site, year, rotation.")
 
@@ -15,18 +15,18 @@ saf_fitNresp <- function(mydata) {
   myfits <-
   mydata %>%
   ## linear function
-  mutate(linear = purrr::map(data, ~ try(lm(yield_kgha ~  nrate_kgha,
+  dplyr::mutate(linear = purrr::map(data, ~ try(lm(yield_kgha ~  nrate_kgha,
                                             data =.))))%>%
   ## quadratic funtion
-  mutate(quad = purrr::map(data, ~ try(lm(yield_kgha ~  nrate_kgha + I(nrate_kgha^2),
+    dplyr::mutate(quad = purrr::map(data, ~ try(lm(yield_kgha ~  nrate_kgha + I(nrate_kgha^2),
                                           data =.))))%>%
 
   ## linear plateau function
-  mutate(LP = purrr::map(data, ~ try(stats::nls(yield_kgha ~ a + b * (nrate_kgha - c) * (nrate_kgha <= c),
+    dplyr::mutate(LP = purrr::map(data, ~ try(stats::nls(yield_kgha ~ a + b * (nrate_kgha - c) * (nrate_kgha <= c),
                                          start = list(a = 7000, b = 640, c = 200),
                                          data = .))))%>%
   ## quad plateau function
-  mutate(QP = purrr::map(data, ~ try(stats::nls(yield_kgha ~ (a + b * nrate_kgha + c * I(nrate_kgha^2)) *
+    dplyr::mutate(QP = purrr::map(data, ~ try(stats::nls(yield_kgha ~ (a + b * nrate_kgha + c * I(nrate_kgha^2)) *
                                            (nrate_kgha <= -0.5 * b/c) +
                                            (a + I(-b^2/(4 * c))) * (nrate_kgha > -0.5 * b/c),
                                          start = list(a =50, b = 1, c = -0.00024),
@@ -61,9 +61,9 @@ saf_smyNfits <- function(myfits) {
                           msg = "Feed the output from the saf_fitNresp function")
 
   helper_find_r2_fun <- function(myfit) {
-    myl <- length(fitted(myfit)) -1
-    sqt <- var( fitted(myfit) + resid(myfit) ) * myl
-    r1 <- (sqt - deviance(myfit)) / sqt
+    myl <- length(stats::fitted(myfit)) -1
+    sqt <- stats::var( stats::fitted(myfit) + stats::resid(myfit) ) * myl
+    r1 <- (sqt - stats::deviance(myfit)) / sqt
     r1 <- round(r1, 4)
     return(r1)
   }

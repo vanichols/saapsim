@@ -12,6 +12,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Language: es
 LazyData: true
+Depends: 
+    R (>= 3.2.1)
 Imports: 
     dplyr,
     lubridate,
@@ -27,3 +29,4 @@ Imports:
     stringr,
     stats
 RoxygenNote: 7.0.2
+Roxygen: list(markdown = TRUE)

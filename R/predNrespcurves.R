@@ -9,7 +9,7 @@
 #' @export
 #'
 saf_predNresp <- function(mydata, highN = 270) {
-  assertthat::assert_that(is.tibble(mydata), msg = "Make your data a tibble")
+  assertthat::assert_that(tibble::is_tibble(mydata), msg = "Make your data a tibble")
   assertthat::assert_that("fit" %in% colnames(mydata) == TRUE,
                           msg = "Make sure you are using the output from the saf_fitNresp function")
 
@@ -18,7 +18,7 @@ saf_predNresp <- function(mydata, highN = 270) {
       LQLPdata %>%
       dplyr::mutate(nrate_kgha = list(0:highN)) %>%
       dplyr::mutate(pred_kgha = fit %>%
-                      purrr::map(predict, newdata = data.frame(nrate_kgha = 0:highN))) %>%
+                      purrr::map(stats::predict, newdata = data.frame(nrate_kgha = 0:highN))) %>%
       dplyr::select(-data) %>%
       tidyr::unnest(cols = c(nrate_kgha, pred_kgha))
     return(LQLPres)
@@ -28,7 +28,7 @@ saf_predNresp <- function(mydata, highN = 270) {
     QPres <- QPdata %>%
       dplyr::mutate(nrate_kgha = list(0:highN)) %>%
       dplyr::mutate(pred_kgha = fit %>%
-                      purrr::map(predict, newdata = data.frame(nrate_kgha = 0:highN))) %>%
+                      purrr::map(stats::predict, newdata = data.frame(nrate_kgha = 0:highN))) %>%
       dplyr::select(-data) %>%
       tidyr::unnest(cols = c(nrate_kgha, pred_kgha)) %>%
       dplyr::mutate(pred_kgha = as.numeric(pred_kgha))
@@ -37,15 +37,15 @@ saf_predNresp <- function(mydata, highN = 270) {
 
   LQLPdata1 <-
     LQLPdata %>%
-    filter(model %in% c("linear", "quad", "LP")) %>%
+    dplyr::filter(model %in% c("linear", "quad", "LP")) %>%
     helper_LQLP()
 
 
   LQLPdata2 <-
-    filter(model %in% c("QP")) %>%
+    dplyr::filter(model %in% c("QP")) %>%
     helper_QP()
 
-  res <- bind_rows(LQLPdata1, LQLPdata2)
+  res <- dplyr::bind_rows(LQLPdata1, LQLPdata2)
 
   return(res)
 

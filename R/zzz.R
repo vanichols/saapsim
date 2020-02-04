@@ -1,0 +1,22 @@
+utils::globalVariables(
+  c(
+    "nrate_kgha",
+    "pred_kgha",
+    "linear",
+    "QP",
+    "model",
+    "fit",
+    "newfit",
+    "predict",
+    "LQLPdata",
+    "r2",
+    "a",
+    "b",
+    "c",
+    "res",
+    "path",
+    "value",
+    "Date",
+    "data"
+  )
+)
