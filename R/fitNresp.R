@@ -1,11 +1,9 @@
-
 #' saf_fitNresp
 #'
 #' @param mydata The N resp data that has been grouped (site, year, rotation) and nested. See the included data 'sad_exdata' for an example
 #'
 #' @return A tibble with the data and fits nested
 #' @export
-#'
 saf_fitNresp <- function(mydata) {
   assertthat::assert_that(tibble::is_tibble(mydata), msg = "Make your data a tibble")
   assertthat::assert_that("data" %in% colnames(mydata) == TRUE,
@@ -48,7 +46,6 @@ saf_fitNresp <- function(mydata) {
 #'
 #' @return A tibble (nothing nested) with the fitted parameters for each model, plus the R2 value
 #' @export
-#'
 saf_smyNfits <- function(myfits) {
 
   assertthat::assert_that("data" %in% colnames(myfits) == TRUE,

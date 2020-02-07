@@ -4,7 +4,6 @@
 #'
 #' @return A tibble with the data from all the out files (you will need to filter them)
 #' @export
-#'
 saf_readapout <- function(fold_dir) {
   # read in out files created by apsim --------------------------------------
 
