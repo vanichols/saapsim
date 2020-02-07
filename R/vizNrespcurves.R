@@ -42,7 +42,11 @@ saf_combN <- function(exp_data, pred_data) {
 #'
 #' @return A plot faceted by model type and site
 #' @export
+<<<<<<< HEAD
 saf_vizN <- function(comb_data) {
+=======
+saf_vizNexppred <- function(comb_data) {
+>>>>>>> 920f13029c545d6df6fe1bfadb481ca1e62a4457
   assertthat::assert_that("pred_kgha" %in% colnames(comb_data) == TRUE,
                           msg = "Use output from saf_combN")
   assertthat::assert_that("exp_kgha" %in% colnames(comb_data) == TRUE,
