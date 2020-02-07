@@ -9,7 +9,7 @@
 saf_fitNresp <- function(mydata) {
   assertthat::assert_that(tibble::is_tibble(mydata), msg = "Make your data a tibble")
   assertthat::assert_that("data" %in% colnames(mydata) == TRUE,
-                          msg = "Data should be in nested format with column named 'data'. Did you group_by?\nSuggested grouping: site, year, rotation.")
+                          msg = "Data should be in nested format with column named 'data'\nDid you group_by and nest?\nSuggested grouping: site, year, rotation")
 
   ## fit 4 fucntions
   myfits <-

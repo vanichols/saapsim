@@ -2,10 +2,12 @@
 
 export("%>%")
 export(saf_buac_to_kgha_corn)
+export(saf_combN)
 export(saf_fitNresp)
 export(saf_lbac_to_kgha)
 export(saf_predNresp)
 export(saf_readapout)
 export(saf_smyNfits)
+export(saf_vizNexppred)
 importFrom(magrittr,"%>%")
 importFrom(tibble,tibble)
