@@ -1,5 +1,5 @@
 library(tidyverse)
-library(readr)
+library(saapsim)
 
 sad_tidysawyer
 
@@ -20,7 +20,7 @@ preds <-
          data_type = "exp_pred") %>%
   select(-model, -fit)
 
-sad_expvalpreds <- exp %>% bind_rows(preds)
+sad_qppreds <- exp %>% bind_rows(preds)
 
-use_data(sad_expvalpreds, overwrite = TRUE)
+use_data(sad_qppreds, overwrite = TRUE)
 
