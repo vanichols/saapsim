@@ -49,15 +49,9 @@ for (i in 1:length(fla)) {
 #--make all sites only 4 characters
 dclean <-
   data %>%
-  filter(site == "mcnay") %>%
   mutate(site = str_sub(site, start = 1, end = 4))
 
 sad_wea <- dclean
 
 sad_wea %>% write_csv("data-raw/sad_wea/sad_wea.csv")
 use_data(sad_wea, overwrite = T)
-
-
-data <- read.table(f, skip = count - 1, header = FALSE, col.names = colNames,
-                   na.strings = c("?", "*"), stringsAsFactors = FALSE)
-names(data) <- colNames
