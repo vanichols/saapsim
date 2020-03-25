@@ -21,6 +21,6 @@ preds <-
   select(-model, -fit)
 
 sad_qppreds <- exp %>% bind_rows(preds)
-
+sad_qppreds %>% write_csv("data-raw/sad_qppreds/sad_qppreds.csv")
 use_data(sad_qppreds, overwrite = TRUE)
 
