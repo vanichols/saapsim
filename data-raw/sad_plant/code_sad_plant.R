@@ -37,5 +37,5 @@ sad_plant <-
                               saf_doy_to_date(suth_avg),
                               plant_doy))
 
-sad_plant
+sad_plant %>% write_csv("data-raw/sad_plant/sad_plant.csv")
 use_data(sad_plant, overwrite = TRUE)
