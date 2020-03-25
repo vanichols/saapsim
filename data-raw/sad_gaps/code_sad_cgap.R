@@ -13,4 +13,4 @@ sad_cgap <-
   filter(!is.na(cgap_max)) %>%
   select(-cc, -sc)
 
-use_data(sad_cgap)
+use_data(sad_cgap, overwrite = TRUE)
