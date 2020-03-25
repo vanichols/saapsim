@@ -5,7 +5,7 @@ library(saapsim)
 
 #note: suth 2001 and 2002 didn't have their dates recorded. I just took an average to fill it in
 
-#--yield gaps at max N
+#--data from mitch, he's great
 sad_plant1 <-
   read_excel("data-raw/sad_plant/20200325_Mitch-planting-dates.xlsx") %>%
   mutate(plant_month = month(planting_date),
@@ -18,6 +18,7 @@ sad_plant1 <-
          site = tolower(site),
          site = str_sub(site, 1, 4)) %>%
     select(-planting_date, -plant_month, -plant_mday)
+
 
 #--address suth 2001/2002
 
