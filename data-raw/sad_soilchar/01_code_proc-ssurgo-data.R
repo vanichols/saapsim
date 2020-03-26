@@ -15,12 +15,16 @@ library(sf)
 library(glue)
 
 
+
+
+
 # a helper function -------------------------------------------------------
+
 
 fun_summarize_ssurgo <- function(f_mychoice = "ames") {
 
   ########--for trouble
-  #f_mychoice <- "ames"
+  #f_mychoice <- "kana"
 
   my_dir <- glue('data-raw/sad_soilchar/EXTRACTIONS/{f_mychoice}/SSURGO/') %>% as.character()
   my_shp <-
@@ -40,66 +44,67 @@ fun_summarize_ssurgo <- function(f_mychoice = "ames") {
 
   # read in csv files -------------------------------------------------------
 
-  # 1. mapunit descriptions, has iacornsr, I think that's it
+  # 1. mapunit descriptions
 
   mu_dat <- read_csv(my_mu) %>%
     remove_empty("cols") #--removes empty columns
 
 
-  #--two methods:
-  #1. take thing that has highest muacres (major mapunit), steal iacornsr
-
-  iasr_maj <-
+  mu_major <-
     mu_dat %>%
     filter(muacres == max(muacres)) %>%
-    select(iacornsr) %>%
-    rename(iacsr_maj = iacornsr)
+    select(mukey)
 
-
-  #. do a weighted average
-  iasr_wgt <-
+  mu_wgts <-
     mu_dat %>%
-    mutate(
-      ac_tot = sum(muacres),
-      wgt = muacres / ac_tot,
-      val = wgt * iacornsr
-    ) %>%
-    summarise(iacsr_wgt = sum(val))
+    mutate(tot_ac = sum(muacres),
+           mu_wgt = muacres/tot_ac) %>%
+    select(mukey, mu_wgt)
 
 
   # 2. component, tells what each mukey is 'made up of', has mukey and cokey
   cmpnt_dat <- read_csv(my_cmpnt) %>%
-    remove_empty("cols") %>%
     select(mukey, cokey, everything())
 
   cmpnt_major <-
     cmpnt_dat %>%
-    filter(majcompflag == "Yes") %>%
-    select(mukey, cokey)
+    filter(majcompflag == "Yes")
+
+  # 3. chor, has horizon depths
+  # .r means reference value, .l means low value, .h means high value
+
+  chor_dat <- read_csv(my_chor)
 
 
-  draincl_major <- cmpnt_dat %>%
-    filter(majcompflag == "Yes") %>%
-    select(mukey, cokey, drainagecl) %>%
-    left_join(mu_dat) %>%
-    filter(muacres == max(muacres)) %>%
+  #--Drainage class
+  # Use major component and major map unit
+
+  draincl_maj <-
+    mu_major %>%
+    left_join(cmpnt_major) %>%
     select(drainagecl) %>%
     rename(draincl_maj = drainagecl)
 
+  #--Crop prod index
+
+  # Major component and major map unit
+  prodindx_maj <-
+    mu_major %>%
+    left_join(cmpnt_major) %>%
+    select(cropprodindex) %>%
+    rename(cropprodindex_maj = cropprodindex)
+
+  # Major comp, weighted map unit
+  prodindx_wgt <-
+      mu_wgts %>%
+      left_join(cmpnt_major) %>%
+      select(mukey, mu_wgt, cropprodindex) %>%
+        mutate(val = mu_wgt * cropprodindex) %>%
+        summarise(cropprodindex_wgt = sum(val))
 
 
-  # 3. chorizon
-  #  Horizon depths, sand, silt, clay, organic matter, water holding capacity, etc.
-  # .r means reference value, .l means low value, .h means high value
 
-  #--we just want depth to b horizon? can I get wt stuff here?
-  chor_dat <- read_csv(my_chor) %>%
-    remove_empty("cols") %>%
-    select(cokey,
-           chkey,
-           hzname,
-           desgnmaster,
-           contains(".r"))
+  #--depth to b horizon
 
   ahorz_dat <-
     chor_dat %>%
@@ -113,16 +118,15 @@ fun_summarize_ssurgo <- function(f_mychoice = "ames") {
     group_by(cokey) %>%
     summarise(depth_to_Bhz_cm = mean(hzdepb.r, na.rm = T))
 
-  # 1. use major cmpnt, and major mapunit
+  # use major cmpnt, and major mapunit
   hzb_maj <-
-    mu_dat %>%
-    filter(muacres == max(muacres)) %>%
+    mu_major %>%
     left_join(cmpnt_major) %>%
     left_join(ahorz_dat) %>%
     select(depth_to_Bhz_cm) %>%
     rename(bhz_maj = depth_to_Bhz_cm)
 
-  # 2. use weighted cmpnts and mapunits
+  # use weighted cmpnts and mapunits
 
   hzb_wgt <-
     cmpnt_dat %>%
@@ -140,10 +144,30 @@ fun_summarize_ssurgo <- function(f_mychoice = "ames") {
     select(bhz_wt)
 
 
+  #--iacsr
+  # major mapunit
+
+  iasr_maj <-
+    mu_major %>%
+    left_join(mu_dat) %>%
+    select(iacornsr) %>%
+    rename(iacsr_maj = iacornsr)
+
+
+  # weighted average
+  iasr_wgt <-
+    mu_wgts %>%
+    left_join(mu_dat) %>%
+    mutate(
+      val = mu_wgt * iacornsr
+    ) %>%
+    summarise(iacsr_wgt = sum(val))
+
   dat <-
     bind_cols(iasr_maj, iasr_wgt,
               hzb_maj, hzb_wgt,
-              draincl_major) %>%
+              draincl_major,
+              prodindx_maj, prodindx_wgt) %>%
     mutate(site = f_mychoice)
 
   return(dat)
