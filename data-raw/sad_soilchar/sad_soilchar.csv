@@ -1,8 +1,8 @@
-wtdepth_cm,site
-120,suth
-125,kana
-140,nash
-130,ames
-230,lewi
-130,mcna
-125,craw
+site,wtdepth_cm,iacsr_maj,iacsr_wgt,bhz_maj,bhz_wt,draincl_maj
+suth,120,100,96.80066811379574,31.5,31.625,Somewhat poorly drained
+kana,125,84,86.1548903163253,32,35.405,Poorly drained
+nash,140,91,90.55300837776085,30.5,30.724999999999998,Somewhat poorly drained
+ames,130,88,88.98490909268732,29,28.099999999999998,Well drained
+lewi,230,95,91.77388855361093,37,37,Well drained
+mcna,130,72,74.38966953291188,31,29.950000000000003,Somewhat poorly drained
+craw,125,83,82.37857349119261,38.333333333333336,37.24166666666667,Poorly drained
