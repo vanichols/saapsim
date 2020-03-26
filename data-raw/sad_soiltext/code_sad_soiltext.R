@@ -19,7 +19,9 @@ sad_soiltext <-
          silt_pct = p_silt,
          soc_pct = p_soc,
          om_pct = p_om,
-         bden_gmc3 = bden)
+         bden_gmc3 = bden) %>%
+  filter(site != "kell",
+         site != "musc")
 
 
 sad_soiltext %>% write_csv("data-raw/sad_soiltext/sad_soiltext.csv")
