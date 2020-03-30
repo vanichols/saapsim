@@ -1,7 +1,8 @@
 library(tidyverse)
 library(readxl)
 library(lubridate)
-library(saapsim)
+library(saapsim) #--for saf_doy_to_date function
+library(usethis)
 
 #note: suth 2001 and 2002 didn't have their dates recorded. I just took an average to fill it in
 
@@ -22,21 +23,20 @@ sad_plant1 <-
 
 #--address suth 2001/2002
 
-suth_avg <-
+suth_avg_doy <-
   sad_plant1 %>%
   filter(site == "suth") %>%
   summarise(plant_doy_mean = mean(plant_doy, na.rm = T)) %>%
   pull() %>%
   round(0)
 
+suth_avg_date <- saf_doy_to_date(suth_avg_doy)
+
 sad_plant <-
   sad_plant1 %>%
   mutate(plant_doy = ifelse( (site == "suth" & is.na(plant_doy)),
-                             suth_avg,
-                             plant_doy),
-         plant_date = ifelse( (site == "suth" & is.na(plant_doy)),
-                              saf_doy_to_date(suth_avg),
-                              plant_doy))
+                             suth_avg_doy,
+                             plant_doy))
 
 sad_plant %>% write_csv("data-raw/sad_plant/sad_plant.csv")
 use_data(sad_plant, overwrite = TRUE)
