@@ -56,7 +56,9 @@ ysd <- read_csv("data-raw/sad_tidysawyer/mitch_standard-devs-yields.csv") %>%
 
 sad_tidysawyer <-
   ylds %>%
-  left_join(ysd)
+  left_join(ysd) %>%
+  filter(!is.na(yield_kgha)) %>%
+  mutate(nreps = 4)
 
 sad_tidysawyer %>% write_csv("data-raw/sad_tidysawyer/sad_tidysawyer.csv")
 use_data(sad_tidysawyer, overwrite = TRUE)
