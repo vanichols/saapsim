@@ -45,7 +45,7 @@ saf_readapout <- function(fold_dir) {
     dplyr::mutate(res = path %>% purrr::map(helper_readrawoutfile)) %>%
     tidyr::unnest(cols = c(res)) %>%
     janitor::clean_names() %>%
-    dplyr::mutate(file = stringr::str_extract_all(file, "\\w+(?=.out)")) %>%
+    dplyr::mutate(file = stringr::str_extract_all(file, "\\w+(?=.out)")) %>% #--things between \ and .out
     tidyr::unnest(cols = c(file))
 
 
