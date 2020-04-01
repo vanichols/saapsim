@@ -3,7 +3,7 @@
 #'
 #' @param dat_lbac A vector of values in pounds per acre
 #'
-#' @return A vector of values in kilograms per hectare (multiplied by 1.123)
+#' @return A vector of values in kilograms per hectare; multiplied by 1.123
 #' @export
 #'
 saf_lbac_to_kgha <- function(dat_lbac) {
@@ -17,7 +17,7 @@ saf_lbac_to_kgha <- function(dat_lbac) {
 #'
 #' @param dat_buac A vector of corn yields in bushels per acre
 #'
-#' @return A vector of corn yields in kilograms per hectare (adjusted for the 15% moisture the bu/ac are reported at)
+#' @return A vector of corn yields in dry kilograms per hectare; adjusted for the 15% moisture the bu/ac are reported at
 #' @export
 #'
 saf_buac_to_kgha_corn <- function(dat_buac) {

@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of saapsim is to ...
+The goal of saapsim is to provide access to commonly needed functions when working with APSIM (for the Archontoulis Lab). 
 
 ## Installation
 
@@ -29,12 +29,30 @@ The development version is on [GitHub](https://github.com/), accessed with
 #devtools::install_github("vanichols/saapsim")
 ```
 
-## Example
+## Example(s)
 
-You can read in 'out' files from a folder with a function""
+All functions start with saf_xxx (**s**otris-**a**rchontoulis-**a**psim-**f**unction), so you can easily see a list pop up if you type saf and hit tab. 
+
+You can read in '.out' files and smoosh them into one dataframe with the *saf_readapout* function
 
 ```{r example}
 #library(saapsim)
 #mydir <- "/apsim_results_folder"
 #saf_readapout(mydir)
 ```
+
+
+You can easily convert corn bushes/acre to dry kg/ha with the *saf_buac_to_kgha_corn* function
+
+```{r example2}
+library(saapsim)
+saf_buac_to_kgha_corn(210)
+```
+
+You can effortlessly figure out what the day-of-year March 21 2000 was with the *saf_
+
+```{r example3}
+library(saapsim)
+saf_date_to_doy("2000-03-21")
+```
+
