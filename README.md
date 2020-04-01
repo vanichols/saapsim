@@ -22,8 +22,8 @@ with
 
 ## Example(s)
 
-All functions start with saf\_xxx (sotris apsim function), so you can
-easily see a list pop up if you type saf and hit tab.
+All functions start with saf\_xxx (**s**otris-**a**psim-**f**unction),
+so you can easily see a list pop up if you type saf and hit tab.
 
 You can read in ‘.out’ files and smoosh them into one dataframe with the
 *saf\_readapout* function
@@ -41,4 +41,13 @@ You can easily convert corn bushes/acre to dry kg/ha with the
 library(saapsim)
 saf_buac_to_kgha_corn(210)
 #> [1] 11204.44
+```
+
+You can effortlessly figure out what the day-of-year March 21 2000 was
+with the *saf\_date\_to\_day* function
+
+``` r
+library(saapsim)
+saf_date_to_doy("2000-03-21")
+#> [1] 81
 ```

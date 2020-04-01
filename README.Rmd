@@ -31,7 +31,7 @@ The development version is on [GitHub](https://github.com/), accessed with
 
 ## Example(s)
 
-All functions start with saf_xxx (**s**otris-**a**rchontoulis-**a**psim-**f**unction), so you can easily see a list pop up if you type saf and hit tab. 
+All functions start with saf_xxx (**s**otris-**a**psim-**f**unction), so you can easily see a list pop up if you type saf and hit tab. 
 
 You can read in '.out' files and smoosh them into one dataframe with the *saf_readapout* function
 
@@ -49,7 +49,7 @@ library(saapsim)
 saf_buac_to_kgha_corn(210)
 ```
 
-You can effortlessly figure out what the day-of-year March 21 2000 was with the *saf_
+You can effortlessly figure out what the day-of-year March 21 2000 was with the *saf_date_to_day* function
 
 ```{r example3}
 library(saapsim)
