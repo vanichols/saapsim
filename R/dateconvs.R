@@ -14,7 +14,7 @@ saf_date_to_doy <- function(mydate = "2001-01-01"){
 
   doy_tib <- tibble(
     date = seq(lubridate::ymd(date1), lubridate::ymd(date2), by = "1 day")) %>%
-    mutate(doy = lubridate::yday(date))
+    dplyr::mutate(doy = lubridate::yday(date))
 
   res <- doy_tib %>%
     dplyr::filter(date == mydate) %>%
@@ -41,7 +41,7 @@ saf_doy_to_date <- function(mydoy = 1,
 
   doy_tib <- tibble(
     date = seq(lubridate::ymd(date1), lubridate::ymd(date2), by = "1 day")) %>%
-    mutate(doy = lubridate::yday(date))
+    dplyr::mutate(doy = lubridate::yday(date))
 
   res <- tibble::doy_tib %>%
     dplyr::filter(doy == mydoy) %>%
