@@ -1,0 +1,34 @@
+geomftname,geomfname,geomfmod,geomfeatid,existsonfeat,rvindicator,cokey,cogeomdkey
+Landform,drainageways,,NA,NA,No ,17501924,26530298
+Landform,swales,,NA,NA,Yes,17501924,26530297
+Landscape,uplands,,NA,NA,Yes,17501924,26530299
+Landform,ground moraines,,NA,NA,Yes,17501925,26530291
+Landscape,till plains,,NA,NA,Yes,17501925,26530292
+Landform,depressions,,NA,NA,Yes,17501926,26530295
+Landscape,till plains,,NA,NA,Yes,17501926,26530296
+Landform,depressions,,1,2,Yes,17501927,26530300
+Landscape,till plains,loess-covered,2,NA,Yes,17501927,26530301
+Landform,ground moraines,,NA,NA,Yes,17501928,26530293
+Landscape,till plains,,NA,NA,Yes,17501928,26530294
+Landform,swales,,NA,NA,Yes,17501929,26530217
+Landscape,till plains,,NA,NA,Yes,17501929,26530218
+Landform,ground moraines,broad,NA,NA,Yes,17502049,26530265
+Landscape,till plains,,NA,NA,Yes,17502049,26530266
+Landform,swales,,NA,NA,Yes,17502050,26530261
+Landscape,till plains,,NA,NA,Yes,17502050,26530262
+Landform,ground moraines,broad,NA,NA,Yes,17502051,26530275
+Landscape,till plains,,NA,NA,Yes,17502051,26530276
+Landform,outwash plains,,NA,NA,Yes,17502052,26530267
+Landscape,uplands,,NA,NA,Yes,17502052,26530268
+Landform,knolls,,NA,NA,Yes,17502053,26530263
+Landscape,till plains,,NA,NA,Yes,17502053,26530264
+Landform,depressions,,NA,NA,Yes,17502039,26530185
+Landscape,till plains,,NA,NA,Yes,17502039,26530186
+Landform,ground moraines,,NA,NA,Yes,17502040,26530243
+Landscape,till plains,,NA,NA,Yes,17502040,26530244
+Landform,swales,,NA,NA,Yes,17502041,26530183
+Landscape,till plains,,NA,NA,Yes,17502041,26530184
+Landform,ground moraines,broad,NA,NA,Yes,17502042,26530187
+Landscape,till plains,,NA,NA,Yes,17502042,26530188
+Landform,ground moraines,,NA,NA,Yes,17502043,26530189
+Landscape,till plains,,NA,NA,Yes,17502043,26530190

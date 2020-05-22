@@ -1,0 +1,139 @@
+recdate,legendtextkind,textcat,textsubcat,text,lkey,legtextkey
+05/23/2002 00:00:00,Correlation notes,acid/non-acid,alluvial soils,The published soil survey recognized both acid and non-acid alluvial soils.  In some areas where field studies and soil data are available acid to non-acid and non-acid to acid correlations were made.  This resulted in multiple acid/non-acid correlations of some of the alluvial soils.,15372,67787
+05/23/2002 00:00:00,Correlation notes,fragipan/nonfragipan,slope break,The published soil survey recognized fragipan soils on slopes greater than 18 percent.  A correlation decision was made based field studies and soil laboratory data to correlate fragipan soils on slopes steeper than 18 percent to soils without fragipans.  This often resulted in multiple correlations based on landform and soil type.,15372,67788
+04/11/2008 00:00:00,Correlation notes,Additional Status,Correlation Yr 1971,"04/11/2008 - DRW - The Extensive Revision Legend (correlated status) was correlated to the Pope, Hardin, and Massac Counties Published Soil Survey of 1971 (additional status).",15372,67789
+06/21/2001 00:00:00,Correlation notes,built or copied from,,"This legend is a copy and subset of the published legend of Pope, Hardin, Massac.  The units with 0 acres in the 1975 publication are deleted from this legend.  the acres are adjusted so that the 'additional' mapunits from the published report are acres of the mapunit in Pope County only.    jcd   06/21/01",15372,67790
+02/05/2003 00:00:00,Correlation notes,crop yields,IL Circular 1156,"Crop yields for component and data mapunit were populated as instructed by using Illinois Circular 1156 ""Soil Productivity in Illinois"". Yield adjustments were made for slope, erosion and flooding frequency. 
+If yield information was not available in this circular, then Illinois Bulletin 810 ""Average Crop, Pasture, and Forestry Productivity Ratings for Illinois Soils"" was used.",15372,67791
+02/05/2003 00:00:00,Correlation notes,site index,IL Bulletin 810,"Site indexes were populated using data supplied by Bryan Fitch, Soil Scientist, USFS.  Site indexs were populated for components using Illinois Bulletin 810 ""Average Crop, Pasture, and Forestry Productivity Ratings for Illinois Soils"".  Yield adjustments were made for slope phase and erosion class.",15372,67792
+05/23/2002 00:00:00,Correlation notes,karst,landform,The published soil survey did not correlate karst soils.  This update correlates karst mapping units on landforms where karst exist.,15372,67793
+05/28/2002 00:00:00,Correlation notes,soil temperature,mesic/thermic,"Temperature studies indicate, in general, the soils on the uplands are mesic and the soils on the Mississippi River bottomlands are thermic; thus both regimes were used in the survey area.  (Union County Correlation - August 1977.)  Two follow-up soil temperature studies (1997-2001) have been conducted during this update.",15372,67794
+05/22/2002 00:00:00,Correlation notes,slope conversion,upland soils,"Slopes were adjusted to fit the Southern 7 Legend.  Slope classes of mapunits on the published legend differ from slope classes in this legend in the following ways: 
+
+   PUBLISHED	        UPDATE
+SLOPE 	PERCENT	    SLOPE    PERCENT
+A	0-2	      A	        0-2
+B	2-4	      B	        2-5
+C	4-7	      C	        5-10
+D	7-12	      D		10-18
+E	12-18	      E		18-25
+F	18-30	      F		25-35 
+G	30-60	      F		18-35
+		      G		35-70
+ 
+When delineations on the published maps conform to the old standard slope ranges, conversions generally are as follows: 
+
+     MAJOR           MINOR 
+  A goes to A 
+  B goes to B 
+  C goes to C       C to B 
+  D goes to C 
+  D goes to D 
+  E goes to D 
+  F goes to E       F to F 
+  G goes to G       G to F
+
+Where published and update slope classes overlap, slope maps and field investigations have been used to determine line placement and mapunit slope designation. 
+  
+Multiple correlations exist because of slope adjustment, better slope definition, slope overlap of adjacent mapping units and because we are using a larger mapscale.",15372,67795
+05/23/2002 00:00:00,Correlation notes,name conventions,alluvial soils,"Published map units on slopes of 0 to 2 percent did not have a slope letter in the map symbol and the slope range was not in the mapunit name.  Also, alluvial soils did not have flooding frequency or duration in the mapunit name.  
+
+With this update, all mapunits, except miscellaneous units, have a slope letter in the mapunit symbol and the slope range stated in the mapunit name.  In addition, alluvial soils have flooding frequency stated in the mapunit name and the flooding prefix is part of the mapunit symbol.  Brief duration is assumed.  If duration is other than brief, it is added as part of the mapunit name and a letter is added as a suffix to the mapunit symbol.
+
+Prefix	Description	                Suffix	Description
+1	undrained, frequently flooded	   L	Long duration
+3	Frequently flooded		
+5	karst		
+7	Rarely flooded		
+8	Occasionally flooded",15372,67796
+02/18/2003 00:00:00,Correlation notes,series,typical pedon,"Pope County Correlation Notes by Soil Series
+
+ALFORD: The typical pedon is from Hardin County, Illinois. 
+
+ALVIN: The typical pedon is from Massac County, Illinois.
+
+ARMIESBURG: The typical pedon is from Massac County, Illinois.  The typical pedon is described with low chroma clay films in the solum.  The depth to the base of the argillic is more than 60 inches.  Armiesburg needs to be field checked in the future to determine if these conditions still exist and if they are typical for the Southern 7 counties.
+
+BAXTER: The typical pedon is from Union County, Illinois.
+
+BEASLEY: The typical pedon is from Pope County, Illinois.  Beasley soils are typically correlated over Ordivician aged, calcareous (marl) shales in MLRA 121. In Massac and Pope Counties, the Beasley soils are correlated over Mississippian aged limestone, shale and sandstone. The published soil survey describes Beasley soils as moderately well drained with a water table above the bedrock.  The typical pedon also describes the depth to a possible paralithic contact at 36 inches.  These soils should be evaluated in the future to determine drainage class and to compare how the Beasley soils are correlated in MLRA 121 with the Beasely soil correlated in the Southern 7.
+
+BEAUCOUP: The typical pedon is from Monroe County, Illinois.  
+
+BEDFORD: The typical pedon is from Hardin County, Illinois.  
+
+BELKNAP: The typical pedon is from Massac County, Illinois
+
+BERKS:  The typical pedon is from Massac County, Illinois
+
+BIRDS: The typical pedon is from Madison County, Illinois. University of Illinois Department of Transportation Engineering Test data from sample 75IL091-3-1 correlated pedon sampled as Birds.
+
+BONNIE: The typical pedon is from Alexander County, Illinois.
+
+BRANDON: The typical pedon is from Massac County, Illinois.  The Brandon soils are taxadjuncts to the series.  Brandon is classified  as Fine-silty, mixed, semiactive, thermic Typic Hapludults. The textures of the argillic and thickness of the solum are outside  the range allowed by the OSD.  These soils need to be evaluated sometime in the future to determine if they classify as Paleudults or Hapludults. 
+
+BURNSIDE: The typical pedon is from Johnson County, Illinois.  
+
+CAPE: The typical pedon is from Saline County, Illinois (OSD location).  
+
+CLARKSVILLE: The typical pedon is from Hardin County, Illinois.
+
+COLP: The typical pedon is from Monroe County, Illinois (OSD type location). 
+
+DARWIN: The typical pedon is from Madison County, Illinois.
+
+DUPO: The typical pedon is from Randolph County, Illinois (OSD type location).  SCS analyzed at the University of Illinois Soils Lab data from sample S72IL-91-15 (1-8) sampled as Unnamed and correlated to Dupo.
+
+EMMA: The typical pedon is from Gallatin County, Illinois.   
+
+GINAT: The typical pedon is from Pope County, Illinois.  Limited field investigations for this update.  The OSD for Ginat has been reclassified from a Fine-silty, mixed, mesic Typic Fragiaqualfs to a Fine-silty, mixed, active, mesic Typic Endoaqualfs.  The pedons described and observed in this update indicate that fragic properties exist in many pedons. These soils should be evaluated in the future to determine if fragic properties are predominate. 
+
+GRANTSBURG: The typical pedon is from Pope County, Illinois (OSD type location).  
+
+HATFIELD: Weinbach correlated to Hatfield.  The typical pedon is the former Weinbach site in Massac County.  The pedon described has a solum that is thinner than allowed for Hatfield.  The C1 horizon in the description may actually be a BC or a B horizon. A field investigation will be needed sometime in the future to resolve this.
+
+HAYMOND: The typical pedon is from Union County, Illinois.  University of Illinois Department of Transportation Engineering Test data from sample 75IL091-4-1 sampled and correlated as Haymond.
+
+HENSHAW: Reesville soils correlated to Henshaw.  The typical pedon is from White County, Illinois.  
+
+HOSMER: The typical pedon is from Union County, Illinois.  Soil Survey Investigation Unit, Lincoln, NE samples S73IL-91-35(73LI020-22), S73IL-91-36(73LI023-25) were sampled and correlated as Hosmer. 
+Sample S73IL-91-37(73LI026-28) was sampled as Muren and correlated as Hosmer.  University of Illinois Department of Transportation Engineering Test data from sample 75IL091-5-(1-2) sampled and correlated as Hosmer.
+
+HURST: The typical pedon is from Williamson County, Illinois.
+
+KARNAK: The typical pedon is from Massac County, Illinois (OSD type location).  
+
+LAMONT: The typical pedon is from Massac County, Illinois.  The pedon described has a solum that is thinner than allowed for Lamont.  The typical pedon has no lamella described.  Field investigations will be needed in the future to determine if these differences are typical.
+
+MUREN: The typical pedon is from White County, Illinois. Some of the Alford soils were correlated to Muren.  Muren soils occur on nearly level to strongly sloping ridgetops and side slopes on loess hills.  On complex slopes Muren soils occur on the upper footslopes and lower portions on the backslopes.   
+
+MUSKINGUM: The typical pedon is from Pope County, Illinois.
+
+PETROLIA: The typical pedon is from Clinton County, Illinois.
+
+PIOPOLIS: The typical pedon is from Hamilton County, Illinois (OSD type location). 
+
+RACOON: The typical pedon is from Saline County, Illinois (OSD type location). 
+
+ROBBS: The typical pedon is from Johnson County, Illinois.    
+
+SAFFELL: The typical pedon is from Massac County, Illinois. The Saffell soils are taxadjuncts to the series.  Saffell is classified  as Loamy-skeletal, siliceous, semiactive, thermic Typic Hapludults. The typifying pedon is probably a Paleudult.  The thickness of the solum is outside the range allowed by the OSD.  Saffell was classified as a Typic Hapludults in the published soil survey.  There was no time to conduct field investigations for this update.  We left the classification as is for now.  These soils need to be evaluated sometime in the future to determine if they classify as Paleudults or Hapludults. 
+ 
+
+SARPY: The typical pedon is from Monroe County, Illinois.
+
+SCIOTOVILLE: The typical pedon is from Massac County, Illinois. The Sciotoville soils are taxadjuncts to the series.  They have a fragic horizon, not a well developed fragipan like the established series. They classify as Fine-silty, mixed, active, mesic Fragiaquic Hapludalfs.
+
+SHARON: The typical pedon is from Williamson County, Illinois (OSD type location).
+
+STOY: The typical pedon is from Gallatin County, Illinois (OSD type location).  Stoy soils have fragic properties.
+
+WAKELAND: The typical pedon is from Madison County, Illinois.
+
+WEIR: The typical pedon is from Massac County, Illinois.  
+
+WELLSTON: The typical pedon is from Randolph County, Illinois.   
+
+WHEELING: The typical pedon is from Massac County, Illinois.
+
+ZANESVILLE: The typical pedon is from Pope County, Illinois.",15372,67797

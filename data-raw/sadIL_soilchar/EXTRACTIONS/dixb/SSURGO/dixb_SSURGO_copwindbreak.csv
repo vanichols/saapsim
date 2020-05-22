@@ -1,0 +1,67 @@
+wndbrkht.l,wndbrkht.r,wndbrkht.h,plantsym,plantsciname,plantcomname,cokey,copwindbreakkey
+NA,12,NA,POCA19,Populus Ã—canadensis [deltoides Ã— nigra],Carolina poplar,17497729,94324108
+NA,12,NA,PODE3,Populus deltoides,eastern cottonwood,17497729,94324109
+NA,12,NA,QUPA2,Quercus palustris,pin oak,17497729,94324110
+NA,9,NA,ACRU,Acer rubrum,red maple,17497729,94324111
+NA,9,NA,CEOC,Celtis occidentalis,common hackberry,17497729,94324112
+NA,9,NA,LIST2,Liquidambar styraciflua,sweetgum,17497729,94324113
+NA,9,NA,NYSY,Nyssa sylvatica,blackgum,17497729,94324114
+NA,9,NA,PIAB,Picea abies,Norway spruce,17497729,94324115
+NA,9,NA,QUBI,Quercus bicolor,swamp white oak,17497729,94324116
+NA,5,NA,CAIL2,Carya illinoinensis,pecan,17497729,94324117
+NA,5,NA,CRVI2,Crataegus viridis,green hawthorn,17497729,94324118
+NA,5,NA,DIVI5,Diospyros virginiana,common persimmon,17497729,94324119
+NA,5,NA,JUVI,Juniperus virginiana,eastern redcedar,17497729,94324120
+NA,5,NA,PINI,Pinus nigra,Austrian pine,17497729,94324121
+NA,5,NA,PIPU,Picea pungens,blue spruce,17497729,94324122
+NA,5,NA,PSME,Pseudotsuga menziesii,Douglas fir,17497729,94324123
+NA,5,NA,QUIM,Quercus imbricaria,Shingle oak,17497729,94324124
+NA,5,NA,THOC2,Thuja occidentalis,arborvitae,17497729,94324125
+NA,5,NA,VILE,Viburnum lentago,nannyberry,17497729,94324126
+NA,3,NA,AMAR3,Amelanchier arborea,common serviceberry,17497729,94324127
+NA,3,NA,ASTR,Asimina triloba,common pawpaw,17497729,94324128
+NA,3,NA,CODR,Cornus drummondii,roughleaf dogwood,17497729,94324129
+NA,3,NA,CRCR2,Crataegus crus-galli,cockspur hawthorn,17497729,94324130
+NA,3,NA,HAMAM,Hamamelis,witchhazel,17497729,94324131
+NA,3,NA,MAIO,Malus ioensis,prairie crabapple,17497729,94324132
+NA,3,NA,VIDE,Viburnum dentatum,southern arrowwood,17497729,94324133
+NA,3,NA,VIPR,Viburnum prunifolium,blackhaw,17497729,94324134
+NA,3,NA,VIRU,Viburnum rufidulum,rusty blackhaw,17497729,94324135
+NA,2,NA,ARME6,Aronia melanocarpa,black chokeberry,17497729,94324136
+NA,2,NA,COAM2,Cornus amomum,silky dogwood,17497729,94324137
+NA,2,NA,COSES,Cornus sericea ssp. sericea,redosier dogwood,17497729,94324138
+NA,2,NA,ILVE,Ilex verticillata,common winterberry,17497729,94324139
+NA,2,NA,JUCO6,Juniperus communis,common juniper,17497729,94324140
+NA,2,NA,LIBE3,Lindera benzoin,northern spicebush,17497729,94324141
+NA,2,NA,PHOP,Physocarpus opulifolius,common ninebark,17497729,94324142
+NA,2,NA,SANIC4,Sambucus nigra ssp. canadensis,common elderberry,17497729,94324143
+NA,2,NA,TACA7,Taxus canadensis,Canada yew,17497729,94324144
+NA,2,NA,VIOPA2,Viburnum opulus var. americanum,American cranberrybush,17497729,94324145
+NA,12,NA,POCA19,Populus Ã—canadensis [deltoides Ã— nigra],Carolina poplar,17497781,94325426
+NA,9,NA,PIAB,Picea abies,Norway spruce,17497781,94325427
+NA,5,NA,CEOC,Celtis occidentalis,common hackberry,17497781,94325428
+NA,5,NA,JUVI,Juniperus virginiana,eastern redcedar,17497781,94325429
+NA,5,NA,NYSY,Nyssa sylvatica,blackgum,17497781,94325430
+NA,5,NA,PIVI2,Pinus virginiana,Virginia pine,17497781,94325431
+NA,5,NA,QUMA2,Quercus macrocarpa,bur oak,17497781,94325432
+NA,5,NA,QUMU,Quercus muehlenbergii,chinkapin oak,17497781,94325433
+NA,5,NA,QUVE,Quercus velutina,black oak,17497781,94325434
+NA,5,NA,THOC2,Thuja occidentalis,arborvitae,17497781,94325435
+NA,3,NA,AMAR3,Amelanchier arborea,common serviceberry,17497781,94325436
+NA,3,NA,CODR,Cornus drummondii,roughleaf dogwood,17497781,94325437
+NA,3,NA,CRPH,Crataegus phaenopyrum,Washington hawthorn,17497781,94325438
+NA,3,NA,HAVI4,Hamamelis virginiana,American witchhazel,17497781,94325439
+NA,3,NA,MAIO,Malus ioensis,prairie crabapple,17497781,94325440
+NA,3,NA,PRAM,Prunus americana,American plum,17497781,94325441
+NA,3,NA,PRVI,Prunus virginiana,common chokecherry,17497781,94325442
+NA,3,NA,RHHI2,Rhus hirta,staghorn sumac,17497781,94325443
+NA,3,NA,VILE,Viburnum lentago,nannyberry,17497781,94325444
+NA,3,NA,VIPR,Viburnum prunifolium,blackhaw,17497781,94325445
+NA,2,NA,COAM2,Cornus amomum,silky dogwood,17497781,94325446
+NA,2,NA,COAM3,Corylus americana,American hazelnut,17497781,94325447
+NA,2,NA,CORA6,Cornus racemosa,gray dogwood,17497781,94325448
+NA,2,NA,JUCO6,Juniperus communis,common juniper,17497781,94325449
+NA,2,NA,PRVIM,Prunus virginiana var. melanocarpa,black chokeberry,17497781,94325450
+NA,2,NA,SYOR,Symphoricarpos orbiculatus,coralberry,17497781,94325451
+NA,2,NA,VIAC,Viburnum acerifolium,mapleleaf viburnum,17497781,94325452
+NA,2,NA,VIOPA2,Viburnum opulus var. americanum,American cranberrybush,17497781,94325453

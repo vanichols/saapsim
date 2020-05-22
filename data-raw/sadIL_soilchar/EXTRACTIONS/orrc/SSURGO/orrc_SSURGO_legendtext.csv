@@ -1,0 +1,3590 @@
+recdate,legendtextkind,textcat,textsubcat,text,lkey,legtextkey
+04/24/2001 00:00:00,Correlation notes,correlation document,NA,"United States Department of Agriculture
+Natural Resources Conservation Service
+
+Classification and Correlation of the Soils of 
+Pike County, Illinois
+
+A Subset of MLRA 115C
+
+January 2001
+
+
+John C. Doll, MLRA Soil Survey Coordinator, Champaign, Illinois and Gary Struben, Soil Data Quality Specialist (SDQS) MLRA Region 11 team, Indianapolis, Indiana, prepared this correlation.   Robert Tegeler,  MLRA team leader, Springfield, Illinois contributed provided most of the information relating to the recorrelation of the soils in Pike County.  This document is prepared as part of the update of the Soil Survey of Pike County, a subset of MLRA 115C.  The correlation conference was at the Springfield MLRA office on October 16 and 17, 2000.  This correlation is based on decisions made at that conference.  Decisions were based on documentation of field investigations, transect data, field notes, pedon descriptions, laboratory data, Soil Survey of Pike County, Illinois issued 1999, and the descriptive legend in the ""Classification and Correlation of the Soils of Pike County, Illinois,"" September, 1991.  
+
+Headnote for detailed soil survey legend:
+
+This update of Pike County, Illinois is an update of a subset of the Soil Survey of Major Land Resource Areas (MLRA) 115C.  Map units and their symbols and special and conventional symbols are consistent between subsets that are being updated.  Map unit symbols consist of a combination of numbers and letters.  The initial numbers represent the kind of soil.  A capital letter following those numbers indicates the class of slope.  A final number of 2 following the slope letter indicates that the soil is moderately eroded, and a number 3 indicates that it is severely eroded.  Absence of a number following the slope class indicates that the soil is slightly eroded or non-eroded.
+
+
+
+Soil Correlation Of
+Pike County, Illinois: Detailed Soil Map Legend
+
+Field symbol|Field map unit name|Publi- cation symbol|Approved map unit name
+
+8D3           |Hickory clay loam, 10 to 18 percent slopes, severely eroded |8D3    |Hickory clay loam, 10 to 18 percent slopes, severely eroded 
+8D3           |Hickory silty clay loam, 10 to 15 percent slopes, severely eroded ||
+
+8D2           |Hickory silt loam, 10 to 15 percent slopes, eroded |8D2    |Hickory loam, 10 to 18 percent slopes, eroded 
+8D2           |Hickory loam, 10 to 18 percent slopes, eroded ||
+
+8E2           |Hickory loam, 18 to 25 percent slopes, eroded |8E2    |Hickory loam, 18 to 25 percent slopes, eroded 
+8E2           |Hickory silt loam, 15 to 30 percent slopes, eroded ||
+
+8E            |Hickory loam, 15 to 30 percent slopes         |8F     |Hickory silt loam, 18 to 35 percent slopes    
+8F            |Hickory silt loam, 18 to 35 percent slopes    ||
+
+8G            |Hickory silt loam, 35 to 60 percent slopes    |8G     |Hickory silt loam, 35 to 60 percent slopes    
+8G            |Hickory silt loam, 30 to 60 percent slopes     ||
+
+17A           |Keomah silt loam, 0 to 2 percent slopes       |17A    |Keomah silt loam, 0 to 2 percent slopes       
+17B           |Keomah silt loam, 2 to 5 percent slopes       |17B    |Keomah silt loam, 2 to 5 percent slopes       
+
+19D3          |Sylvan silty clay loam, 10 to 15 percent slopes, severely eroded |19D3   |Sylvan silty clay loam, 10 to 18 percent slopes, severely eroded 
+19D3          |Sylvan silty clay loam, 10 to 18 percent slopes, severely eroded||
+
+30F           |Hamburg silt, 20 to 30 percent slopes         |30F    |Hamburg silt, 18 to 35 percent slopes         
+30F           |Hamburg silt, 18 to 35 percent slopes         ||
+
+30G           |Hamburg silt, 30 to 65 percent slopes         |30G    |Hamburg silt, 35 to 60 percent slopes         
+30G           |Hamburg silt, 35 to 60 percent slopes         ||
+
+37B           |Worthen silt loam, 1 to 4 percent slopes      |7037B    |Worthen silt loam, 2 to 5 percent slopes, rarely flooded     
+37B           |Worthen silt loam, 2 to 5 percent slopes      ||
+
+43A           |Ipava silt loam, 0 to 2 percent slopes        |43A    |Ipava silt loam, 0 to 2 percent slopes        
+
+43B           |Ipava silt loam, 2 to 5 percent slopes        |43B    |Ipava silt loam, 2 to 5 percent slopes        
+
+50            |Virden silt loam                              |50A    |Virden silty clay loam, 0 to 2 percent slopes 
+50A           |Virden silty clay loam, 0 to 2 percent slopes ||
+
+75B           |Drury silt loam, 2 to 5 percent slopes        |7075B    |Drury silt loam, 2 to 5 percent slopes, rarely flooded        
+
+75C           |Drury silt loam, 5 to 10 percent slopes       |75C    |Drury silt loam, 5 to 10 percent slopes       
+
+75C2          |Drury silt loam, 5 to 10 percent slopes, eroded |75C2   |Drury silt loam, 5 to 10 percent slopes, eroded 
+
+79B           |Menfro silt loam, 2 to 5 percent slopes       |79B    |Menfro silt loam, 2 to 5 percent slopes       
+
+79C2          |Menfro silt loam, 5 to 10 percent slopes, eroded |79C2   |Menfro silt loam, 5 to 10 percent slopes, eroded 
+
+79C3          |Menfro silty clay loam, 5 to 10 percent slopes, severely eroded |79C3   |Menfro silty clay loam, 5 to 10 percent slopes, severely eroded 
+
+79D2          |Menfro silt loam, 10 to 18 percent slopes, eroded |79D2   |Menfro silt loam, 10 to 18 percent slopes, eroded 
+280D2         |Fayette silt loam, 10 to 15 percent slopes, eroded ||
+
+79D3          |Menfro silty clay loam, 10 to 18 percent slopes, severely eroded|79D3   |Menfro silty clay loam, 10 to 18 percent slopes, severely eroded 
+280D3         |Fayette silty clay loam, 10 to 15 percent slopes, severely eroded||
+
+
+79E2          |Menfro silt loam, 18 to 25 percent slopes, eroded |79E2   |Menfro silt loam, 18 to 25 percent slopes, eroded 
+280E2         |Fayette silt loam, 15 to 30 percent slopes, eroded ||
+
+61            |Atterberry silt loam                          |90A    |Bethalto silt loam, 0 to 2 percent slopes     
+90A           |Bethalto silt loam, 0 to 2 percent slopes     ||
+
+119D2         |Elco silt loam, 10 to 18 percent slopes, eroded |119D2  |Elco silt loam, 10 to 18 percent slopes, eroded 
+119D2         |Elco silt loam, 10 to 15 percent slopes, eroded ||
+
+119D3         |Elco silty clay loam, 10 to 18 percent slopes, severely eroded|119D3  |Elco silty clay loam, 10 to 18 percent slopes, severely eroded
+119D3         |Elco silty clay loam, 10 to 15 percent slopes, severely eroded||
+
+119E2         |Elco silt loam, 15 to 25 percent slopes, eroded |119E2  |Elco silt loam, 18 to 25 percent slopes, eroded 
+119E2         |Elco silt loam, 18 to 25 percent slopes, eroded ||
+
+175F          |Lamont sandy loam, 18 to 35 percent slopes    |175F   |Lamont sandy loam, 18 to 35 percent slopes    
+264E          |El Dara fine sandy loam, 15 to 30 percent slopes||
+
+175G          |Lamont sandy loam, 35 to 60 percent slopes    |175G   |Lamont sandy loam, 35 to 60 percent slopes    
+
+264G          |El Dara fine sandy loam, 30 to 50 percent slopes||
+
+216B          |Stookey silt loam, 2 to 5 percent slopes      |216B   |Stookey silt loam, 2 to 5 percent slopes      
+
+216C2         |Stookey silt loam, 5 to 10 percent slopes, eroded |216C2  |Stookey silt loam, 5 to 10 percent slopes, eroded 
+274C2         |Seaton silt loam, 5 to 10 percent slopes, eroded ||
+
+216C3         |Stookey silt loam, 5 to 10 percent slopes, severely eroded |216C3  |Stookey silt loam, 5 to 10 percent slopes, severely eroded 
+274C3         |Seaton silt loam, 5 to 10 percent slopes, severely eroded ||
+
+216D2         |Stookey silt loam, 10 to 18 percent slopes, eroded |216D2  |Stookey silt loam, 10 to 18 percent slopes, eroded 
+274D2         |Seaton silt loam, 10 to 15 percent slopes, eroded ||
+
+216D3         |Stookey silt loam, 10 to 18 percent slopes, severely eroded |216D3  |Stookey silt loam, 10 to 18 percent slopes, severely eroded 
+274D3         |Seaton silt loam, 10 to 15 percent slopes, severely eroded ||
+
+242A          |Kendall silt loam, 0 to 2 percent slopes      |242A   |Kendall silt loam, 0 to 2 percent slopes      
+
+257A          |Clarksdale silt loam, 0 to 2 percent slopes   |257A   |Clarksdale silt loam, 0 to 2 percent slopes   
+
+257B          |Clarksdale silt loam, 2 to 5 percent slopes   |257B   |Clarksdale silt loam, 2 to 5 percent slopes   
+
+264D3         |El Dara sandy loam, 10 to 15 percent slopes, severely eroded|264D3  |El Dara sandy loam, 10 to 18 percent slopes, severely eroded
+264D3         |El Dara sandy loam, 10 to 18 percent slopes, severely eroded||
+
+264E          |El Dara fine sandy loam, 15 to 30 percent slopes|264E2  |El Dara sandy loam, 18 to 25 percent slopes, eroded
+264E2         |El Dara fine sandy loam, 15 to 30 percent slopes, eroded||
+264E2         |El Dara sandy loam, 18 to 25 percent slopes, eroded||
+
+264G          |El Dara fine sandy loam, 35 to 60 percent slopes|264G   |El Dara fine sandy loam, 35 to 60 percent slopes 
+264G          |El Dara fine sandy loam, 30 to 50 percent slopes||
+
+267A          |Caseyville silt loam, 0 to 2 percent slopes   |267A   |Caseyville silt loam, 0 to 2 percent slopes   
+
+
+267B          |Caseyville silt loam, 2 to 5 percent slopes   |267B   |Caseyville silt loam, 2 to 5 percent slopes   
+
+278B          |Stronghurst silt loam, 2 to 5 percent slopes  ||
+
+271D3         |Timula silt loam, 10 to 15 percent slopes, severely eroded |271D3  |Timula silt loam, 10 to 18 percent slopes, severely eroded 
+271D3         |Timula silt loam, 10 to 18 percent slopes, severely eroded ||
+
+271C3         |Timula silt loam, 5 to 10 percent slopes, severely eroded |271C3  |Timula silt loam, 5 to 10 percent slopes, severely eroded 
+
+274B          |Seaton silt loam, 2 to 5 percent slopes       |274B   |Seaton silt loam, 2 to 5 percent slopes       
+
+274F|Seaton silt loam, 18 to 35 percent slopes|274F|Seaton silt loam, 18 to 35 percent slopes
+
+274G          |Seaton silt loam, 30 to 50 percent slopes     |274G   |Seaton silt loam, 35 to 60 percent slopes     
+274G          |Seaton silt loam, 35 to 60 percent slopes     ||
+
+278A          |Stronghurst silt loam, 0 to 2 percent slopes  |278A   |Stronghurst silt loam, 0 to 2 percent slopes  
+
+279B          |Rozetta silt loam, 2 to 5 percent slopes      |279B   |Rozetta silt loam, 2 to 5 percent slopes      
+
+279C2         |Rozetta silt loam, 5 to 10 percent slopes, eroded |279C2  |Rozetta silt loam, 5 to 10 percent slopes, eroded 
+
+279C3         |Rozetta silty clay loam, 5 to 10 percent slopes, severely eroded |279C3  |Rozetta silty clay loam, 5 to 10 percent slopes, severely eroded 
+
+280B          |Fayette silt loam, 2 to 5 percent slopes      |280B   |Fayette silt loam, 2 to 5 percent slopes      
+
+280C2         |Fayette silt loam, 5 to 10 percent slopes, eroded |280C2  |Fayette silt loam, 5 to 10 percent slopes, eroded 
+
+280C3         |Fayette silty clay loam, 5 to 10 percent slopes, severely eroded |280C3  |Fayette silty clay loam, 5 to 10 percent slopes, severely eroded 
+
+280D2         |Fayette silt loam, 10 to 15 percent slopes, eroded |280D2  |Fayette silt loam, 10 to 18 percent slopes, eroded 
+280D2         |Fayette silt loam, 10 to 18 percent slopes, eroded||
+
+280D3         |Fayette silty clay loam, 10 to 15 percent slopes, severely eroded|280D3  |Fayette silty clay loam, 10 to 18 percent slopes, severely eroded 
+280D3         |Fayette silty clay loam, 10 to 18 percent slopes, severely eroded||
+
+283B          |Downsouth silt loam, 2 to 5 percent slopes    |283B   |Downsouth silt loam, 2 to 5 percent slopes    
+386B          |Downs silt loam, 2 to 5 percent slopes        ||
+
+283C2         |Downsouth silt loam, 5 to 10 percent slopes, eroded|283C2  |Downsouth silt loam, 5 to 10 percent slopes, eroded
+386C2         |Downs silt loam, 5 to 10 percent slopes, eroded ||
+
+403G          |Elizabeth very channery silt loam, 30 to 60 percent slopes|403G   |Elizabeth very channery silt loam, 35 to 60 percent slopes
+403G          |Elizabeth very channery silt loam, 35 to 60 percent slopes||
+
+36B           |Tama silt loam, 1 to 5 percent slopes         |441B   |Wakenda silt loam, 2 to 5 percent slopes      
+441B          |Wakenda silt loam, 2 to 5 percent slopes      ||
+
+472D2         |Baylis silt loam, 10 to 15 percent slopes, eroded |472D2  |Baylis silt loam, 10 to 18 percent slopes, eroded 
+472D2         |Baylis silt loam, 10 to 18 percent slopes, eroded  ||
+
+472E2         |Baylis silt loam, 15 to 30 percent slopes, eroded |472E2  |Baylis silt loam, 18 to 25 percent slopes, eroded 
+
+477B          |Winfield silt loam, 2 to 5 percent slopes     |477B   |Winfield silt loam, 2 to 5 percent slopes     
+
+477C2         |Winfield silt loam, 5 to 10 percent slopes, eroded |477C2  |Winfield silt loam, 5 to 10 percent slopes, eroded 
+
+477C3         |Winfield silty clay loam, 5 to 10 percent slopes, severely eroded |477C3  |Winfield silty clay loam, 5 to 10 percent slopes, severely eroded 
+
+5C2           |Blair silt loam, 5 to 10 percent slopes, eroded |515C2  |Bunkum silt loam, 5 to 10 percent slopes, eroded 
+515C2         |Bunkum silt loam, 5 to 10 percent slopes, eroded||
+
+5C3           |Blair silty clay loam, 5 to 10 percent slopes, severely eroded|515C3  |Bunkum silty clay loam, 5 to 10 percent slopes, severely eroded
+515C3         |Bunkum silty clay loam, 5 to 10 percent slopes, severely eroded||
+
+5D2           |Blair silt loam, 10 to 15 percent slopes, eroded|515D2  |Bunkum silt loam, 10 to 18 percent slopes, eroded 
+515D2         |Bunkum silt loam, 10 to 18 percent slopes, eroded||
+
+5D3           |Blair silty clay loam, 10 to 15 percent slopes, severely eroded|515D3  |Bunkum silty clay loam, 10 to 18 percent slopes, severely eroded
+515D3         |Bunkum silty clay loam, 10 to 18 percent slopes, severely eroded||
+
+549E2         |Marseilles silt loam, 18 to 25 percent slopes, eroded|549E2  |Marseilles silt loam, 18 to 25 percent slopes, eroded
+551E2         |Gosport silt loam, 15 to 20 percent slopes, eroded||
+
+549F          |Marseilles silt loam, 18 to 35 percent slopes  |549F   |Marseilles silt loam, 18 to 35 percent slopes  
+551E2         |Gosport silt loam, 15 to 20 percent slopes, eroded ||
+
+549G          |Marseilles silt loam, 35 to 60 percent slopes |549G   |Marseilles silt loam, 35 to 60 percent slopes 
+551G          |Gosport silt loam, 20 to 60 percent slopes    ||
+
+8E            |Hickory loam, 15 to 30 percent slopes         |559F   |Lindley loam, 18 to 35 percent slopes         
+559F          |Lindley loam, 18 to 35 percent slopes         ||
+937E          |Seaton-Hickory complex, 15 to 30 percent slopes||
+
+8G            |Hickory silt loam, 30 to 60 percent slopes     |559G   |Lindley loam, 35 to 60 percent slopes         
+559G          |Lindley loam, 35 to 60 percent slopes         ||
+
+606E          |Goss gravelly silt loam, 15 to 30 percent slopes|606F   |Goss gravelly silt loam, 18 to 35 percent slopes 
+606F          |Goss gravelly silt loam, 18 to 35 percent slopes||
+
+606G          |Goss gravelly silt loam, 35 to 60 percent slopes|606G   |Goss gravelly silt loam, 35 to 60 percent slopes 
+606G          |Goss gravelly silt loam, 30 to 60 percent slopes||
+
+19B2          |Sylvan silt loam, 2 to 5 percent slopes, eroded|630B2  |Navlys silt loam, 2 to 5 percent slopes, eroded 
+630B2         |Navlys silt loam, 2 to 5 percent slopes, eroded||
+
+19C2          |Sylvan silt loam, 5 to 10 percent slopes, eroded|630C2  |Navlys silt loam, 5 to 10 percent slopes, eroded
+630C2         |Navlys silt loam, 5 to 10 percent slopes, eroded||
+
+19C3          |Sylvan silty clay loam, 5 to 10 percent slopes, severely eroded|630C3  |Navlys silty clay loam, 5 to 10 percent slopes, severely eroded 
+630C3         |Navlys silty clay loam, 5 to 10 percent slopes, severely eroded||
+
+8D2           |Hickory silt loam, 10 to 15 percent slopes, eroded|651D2  |Keswick loam, 10 to 18 percent slopes, eroded 
+605D2         |Ursa silt loam, 10 to 15 percent slopes, eroded||
+651D2         |Keswick loam, 10 to 18 percent slopes, eroded ||
+
+8D3           |Hickory silty clay loam, 10 to 15 percent slopes, severely eroded|651D3  |Keswick clay loam, 10 to 18 percent slopes, severely eroded
+605D3         |Ursa silty clay loam, 10 to 15 percent slopes, severely eroded||
+651D3         |Keswick clay loam, 10 to 18 percent slopes, severely eroded||
+
+8E2           |Hickory silt loam, 15 to 30 percent slopes, eroded|651E2  |Keswick loam, 18 to 25 percent slopes, eroded 
+605E2         |Ursa silt loam, 15 to 20 percent slopes, eroded||
+651E2         |Keswick loam, 18 to 25 percent slopes, eroded ||
+
+5C2           |Blair silt loam, 5 to 10 percent slopes, eroded |652C2  |Passport silt loam, 5 to 10 percent slopes, eroded
+652C2         |Passport silt loam, 5 to 10 percent slopes, eroded||
+
+5C3           |Blair silty clay loam, 5 to 10 percent slopes, severely eroded|652C3  |Passport silty clay loam, 5 to 10 percent slopes, severely eroded
+652C3         |Passport silty clay loam, 5 to 10 percent slopes, severely eroded||
+
+5D2           |Blair silt loam, 10 to 15 percent slopes, eroded|652D2  |Passport silt loam, 10 to 18 percent slopes, eroded
+652D2         |Passport silt loam, 10 to 18 percent slopes, eroded||
+
+5D3           |Blair silty clay loam, 10 to 15 percent slopes, severely eroded|652D3  |Passport silty clay loam, 10 to 18 percent slopes, severely eroded 
+652D3         |Passport silty clay loam, 10 to 18 percent slopes, severely eroded||
+
+605D2         |Ursa silt loam, 10 to 15 percent slopes, eroded|655D2  |Ursa silt loam, moderately wet, 10 to 18 percent slopes, eroded
+655D2         |Ursa silt loam, moderately wet, 10 to 18 percent slopes, eroded||
+
+605D3         |Ursa silty clay loam, 10 to 15 percent slopes, severely eroded|655D3  |Ursa silty clay loam, moderately wet, 10 to 18 percent slopes, severely eroded 
+655D3         |Ursa silty clay loam, moderately wet, 10 to 18 percent slopes, severely eroded||
+
+605E2         |Ursa silt loam, 15 to 20 percent slopes, eroded|655E2  |Ursa silt loam, moderately wet, 18 to 25 percent slopes, eroded
+655E2         |Ursa silt loam, moderately wet, 18 to 25 percent slopes, eroded||
+
+46            |Herrick silt loam                             |699A   |Timewell silt loam, 0 to 2 percent slopes     
+699A          |Timewell silt loam, 0 to 2 percent slopes     ||
+
+785G          |Lacrescent channery silt loam, 30 to 70 percent slopes|785G   |Lacrescent channery silt loam, 35 to 60 percent slopes
+785G          |Lacrescent channery silt loam, 35 to 60 percent slopes||
+
+835G          |Earthen Dam                                   |835G   |Earthen Dam              
+
+271E2         |Timula silt loam, 15 to 30 percent slopes, eroded|856E2  |Stookey and Timula soils, 18 to 25 percent slopes, eroded
+274E2         |Seaton silt loam, 15 to 30 percent slopes, eroded ||
+856E2         |Stookey and Timula soils, 18 to 25 percent slopes, eroded||
+
+274E          |Seaton silt loam, 15 to 30 percent slopes     |856F   |Stookey and Timula soils, 18 to 35 percent slopes
+856F          |Stookey and Timula soils, 18 to 35 percent slopes||
+937E          |Seaton-Hickory complex, 15 to 30 percent slopes||
+
+274G          |Seaton silt loam, 30 to 50 percent slopes     |856G   |Stookey and Timula soils, 35 to 60 percent slopes
+856G          |Stookey and Timula soils, 35 to 60 percent slopes||
+
+864           |Pits, quarries                                |864    |Pits, quarries       
+
+865           |Pits, gravel                                  |865    |Pits, gravel   
+
+274E          |Seaton silt loam, 15 to 30 percent slopes     |274F  |Seaton silt loam, 18 to 35 percent slopes
+274F          |Seaton silt loam, 18 to 35 percent slopes||
+
+1070L         |Beaucoup silty clay loam, 0 to 2 percent slopes, undrained, occasionally flooded, long duration|1070L  |Beaucoup silty clay loam, 0 to 2 percent slopes, undrained, occasionally flooded, long duration
+
+4070          |Beaucoup silty clay loam, ponded              ||
+3028          |Jules silt loam, frequently flooded           |3028A  |Jules silt loam, 0 to 2 percent slopes, frequently flooded 
+3028A         |Jules silt loam, 0 to 2 percent slopes, frequently flooded||
+
+3070          |Beaucoup silt loam, frequently flooded        |3070A  |Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded
+3070A         |Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded||
+
+3070L         |Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration|3070L  |Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration 
+3070L         |Beaucoup silt loam, frequently flooded, long duration||
+4070          |Beaucoup silty clay loam, ponded              ||
+
+3071L         |Darwin silty clay, 0 to 2 percent slopes, frequently flooded, long duration|3071L  |Darwin silty clay, 0 to 2 percent slopes, frequently flooded, long duration 
+3071L         |Darwin silty clay, frequently flooded, long duration||
+
+3092          |Sarpy loamy sand, frequently flooded          |3092A  |Sarpy loamy sand, 0 to 2 percent slopes, frequently flooded 
+3092A         |Sarpy loamy sand, 0 to 2 percent slopes, frequently flooded||
+
+3092L         |Sarpy loamy fine sand, 0 to 2 percent slopes, frequently flooded, long duration|3092L  |Sarpy loamy fine sand, 0 to 2 percent slopes, frequently flooded, long duration
+3092L         |Sarpy loamy sand, frequently flooded, long duration||
+
+3162A         |Gorham silty clay loam, 0 to 2 percent slopes, frequently flooded|3162A  |Gorham silty clay loam, 0 to 2 percent slopes, frequently flooded
+
+3302          |Ambraw silty clay loam, sandy substratum, frequently flooded||
+
+3302L         |Ambraw silty clay loam, frequently flooded, long duration|3302L  |Ambraw clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+3302L         |Ambraw clay loam, 0 to 2 percent slopes, frequently flooded, long duration||
+
+3331          |Haymond silt loam, frequently flooded         |3331A  |Haymond silt loam, 0 to 2 percent slopes, frequently flooded 
+3331A         |Haymond silt loam, 0 to 2 percent slopes, frequently flooded||
+
+3331L         |Haymond silt loam, frequently flooded, long duration|3331L  |Haymond silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+3331L         |Haymond silt loam, 0 to 2 percent slopes, frequently flooded, long duration||
+
+3333          |Wakeland silt loam, frequently flooded, brief duration|3333A  |Wakeland silt loam, 0 to 2 percent slopes, frequently flooded
+3333A         |Wakeland silt loam, 0 to 2 percent slopes, frequently flooded||
+
+3333L         |Wakeland silt loam, frequently flooded, long duration|3333L  |Wakeland silt loam, 0 to 2 percent slopes, frequently flooded, long duration 
+3333L         |Wakeland silt loam, 0 to 2 percent slopes, frequently flooded, long duration||
+
+3404          |Titus silty clay loam, frequently flooded     |3404A  |Titus silty clay loam, 0 to 2 percent slopes, frequently flooded
+3404A         |Titus silty clay loam, 0 to 2 percent slopes, frequently flooded||
+
+3404L         |Titus silty clay loam, frequently flooded, long duration|3404L  |Titus silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+3404L         |Titus silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration||
+
+3415          |Orion silt loam, frequently flooded           |3415A  |Orion silt loam, 0 to 2 percent slopes, frequently flooded 
+3415A         |Orion silt loam, 0 to 2 percent slopes, frequently flooded||
+
+3415L         |Orion silt loam, 0 to 2 percent slopes, frequently flooded, long duration|3415L  |Orion silt loam, 0 to 2 percent slopes, frequently flooded, long duration 
+3415L         |Orion silt loam, frequently flooded, long duration ||
+
+3428          |Coffeen silt loam, frequently flooded         |3428A  |Coffeen silt loam, 0 to 2 percent slopes, frequently flooded
+3428A         |Coffeen silt loam, 0 to 2 percent slopes, frequently flooded||
+
+3428L         |Coffeen silt loam, frequently flooded, long duration|3428L  |Coffeen silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+3428L         |Coffeen silt loam, 0 to 2 percent slopes, frequently flooded, long duration||
+
+3475          |Elsah gravelly loam, frequently flooded       |3475A  |Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded 
+3475A         |Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded||
+
+3475L         |Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded, long duration|3475L  |Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded, long duration
+3475L         |Elsah gravelly loam, frequently flooded, long duration||
+3877L
+
+3070L|Blake-Slacwater silt loams, 0 to 2 percent slopes, frequently flooded, long duration
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration|3877L|Blake-Slacwater silt loams, 0 to 2 percent slopes, frequently flooded, long duration
+
+7088          |Sparta loamy fine sand, rarely flooded        |7088A  |Sparta loamy fine sand, 0 to 2 percent slopes, rarely flooded
+7088A         |Sparta loamy fine sand, 0 to 2 percent slopes, rarely flooded||
+430B          |Raddle silt loam, 1 to 5 percent slopes       |7430B  |Raddle silt loam, 2 to 5 percent slopes, rarely flooded
+I agree       
+|||
+7430B         |Raddle silt loam, 2 to 5 percent slopes, rarely flooded       ||
+7242A
+
+242A|Kendall silt loam, 0 to 2 percent slopes, rarely flooded
+Kendall silt loam, 0 to 2 percent slopes|7242A|Kendall silt loam, 0 to 2 percent slopes, rarely flooded
+
+815           |Udorthents, silty                             |7815B  |Udorthents, silty, undulating, rarely flooded 
+7815B         |Udorthents, silty, undulating, rarely flooded ||
+
+8070          |Beaucoup silty clay loam, occasionally flooded|8070A  |Beaucoup silty clay loam, 0 to 2 percent slopes, occasionally flooded 
+8070A         |Beaucoup silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8071          |Darwin silty clay loam, occasionally flooded  |8071A  |Darwin silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8071A         |Darwin silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8092          |Sarpy loamy fine sand, occasionally flooded   |8092A  |Sarpy loamy fine sand, 0 to 2 percent slopes, occasionally flooded
+8092A         |Sarpy loamy fine sand, 0 to 2 percent slopes, occasionally flooded||
+
+8162A         |Gorham silty clay loam, 0 to 2 percent slopes, occasionally flooded|8162A  |Gorham silty clay loam, 0 to 2 percent slopes, occasionally flooded
+
+8341          |Ambraw silt loam, sandy substratum, occasionally flooded ||
+
+8180          |Dupo silt loam, occasionally flooded          |8180A  |Dupo silt loam, 0 to 2 percent slopes, occasionally flooded
+8180A         |Dupo silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8183          |Shaffton silty clay loam, occasionally flooded|8183A  |Shaffton silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8183A         |Shaffton silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8217          |Twomile silt loam, occasionally flooded       |8217A  |Twomile silt loam, 0 to 2 percent slopes, occasionally flooded 
+8217A         |Twomile silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8284          |Tice silt loam, occasionally flooded          |8284A  |Tice silty clay loam, 0 to 2 percent slopes, occasionally flooded 
+8284A         |Tice silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8288          |Petrolia silt loam, occasionally flooded      |8288A  |Petrolia silt loam, 0 to 2 percent slopes, occasionally flooded
+8288A         |Petrolia silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8302          |Ambraw loam, occasionally flooded             |8302A  |Ambraw clay loam, 0 to 2 percent slopes, occasionally flooded 
+8302A         |Ambraw clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8331          |Haymond silt loam, occasionally flooded       |8331A  |Haymond silt loam, 0 to 2 percent slopes, occasionally flooded
+8331A         |Haymond silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8333          |Wakeland silt loam, occasionally flooded      |8333A  |Wakeland silt loam, 0 to 2 percent slopes, occasionally flooded 
+8333A         |Wakeland silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8349B, 7088|Zumbro sandy loam, 1 to 6 percent slopes, occasionally flooded
+Sparta loamy fine sand, rarely flooded|8349B
+|Zumbro sandy loam, 1 to 6 percent slopes, occasionally flooded
+
+8395          |Ceresco loam, occasionally flooded            |8395A  |Ceresco loam, 0 to 2 percent slopes, occasionally flooded 
+8395A         |Ceresco loam, 0 to 2 percent slopes, occasionally flooded||
+
+8396          |Vesser silt loam, occasionally flooded        |8396A  |Vesser silt loam, 0 to 2 percent slopes, occasionally flooded
+8396A         |Vesser silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8404          |Titus silty clay, occasionally flooded        |8404A  |Titus silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8404A         |Titus silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8415          |Orion silt loam, occasionally flooded         |8415A  |Orion silt loam, 0 to 2 percent slopes, occasionally flooded
+8415A         |Orion silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8428          |Coffeen silt loam, occasionally flooded       |8428A  |Coffeen silt loam, 0 to 2 percent slopes, occasionally flooded
+8428A         |Coffeen silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8451          |Lawson silt loam, occasionally flooded        |8451A  |Lawson silt loam, 0 to 2 percent slopes, occasionally flooded 
+8451A         |Lawson silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8452          |Riley silty clay loam, occasionally flooded   |8452A  |Riley silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8452A         |Riley silty clay loam, 0 to 2 percent slopes, occasionally flooded||
+
+8331          |Haymond silt loam, occasionally flooded       |8634A  |Blyton silt loam, 0 to 2 percent slopes, occasionally flooded 
+8634A         |Blyton silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+430B          |Raddle silt loam, 1 to 5 percent slopes       |8674A  |Dozaville silt loam, 0 to 2 percent slopes, occasionally flooded  Will determine if A or B slope this spring
+8674A         |Dozaville silt loam, 0 to 2 percent slopes, occasionally flooded||
+
+8789          |Ambraw-Ceresco-Sarpy complex, occasionally flooded |8789A  |Ambraw-Ceresco-Sarpy complex, 0 to 2 percent slopes, occasionally flooded
+8789A         |Ambraw-Ceresco-Sarpy complex, 0 to 2 percent slopes, occasionally flooded||
+
+9278A, |Stronghurst silt loam, terraces, 0 to 2 percent slopes, 9278A|Stronghurst silt loam, terraces, 0 to 2 percent slopes,
+278A|Stronghurst silt loam, 0 to 2 percent slopes| 
+
+9278B |Stronghurst silt loam, terraces, 2 to 5 percent slopes, |9278B|Stronghurst silt loam, terraces, 2 to 5 percent slopes
+278B| Stronghurst silt loam, 2 to 5 percent slopes|| 
+
+9279B         |Rozetta silt loam, terrace, 2 to 5 percent slopes|9279B  |Rozetta silt loam, terrace, 2 to 5 percent slopes 
+
+9279C         |Rozetta silt loam, terrace, 5 to 10 percent slopes, eroded|9279C  |Rozetta silt loam, terrace, 5 to 10 percent slopes, eroded
+
+MW|Miscellaneous wataer|MW|Miscellaneous water
+
+W             |Water                                         |W      |Water 
+
+
+
+Series established by this correlation: None
+
+Series added to the previously correlated legend (September 1991): Bethalto, Blake, Blyton, Bunkum, Caseyville, Downsouth, Dozaville, Gorham,  Keswick, Lamont, Lindley, Marseilles, Menfro, Navlys, Passport, Slacwater, Stookey, Timewell, Wakenda, Winfield, and Zumbro.
+
+Series dropped from the previously correlated legend (September 1991): Atterberry, Blair, Downs, Gosport, Herrick, and Tama.
+
+Series made inactive: None
+
+Verification of exact cooperator names: For the front cover and half-title page:
+
+United States Department of Agriculture
+Natural Resources Conservation Service
+in Cooperation with the
+Illinois Agricultural Experiment Station
+
+The cooperators to be listed on the inside of the front cover are the same as those on the front cover and in addition state: ""This soil survey update is part of the technical assistance provided to the Pike County Soil and Water Conservation District.  Financial assistance was made  available by the Pike County Board and the Illinois Department of Agriculture."" 
+
+Prior soil survey publication:  The last soil survey of Pike County was completed in 1990 and published by the United States Department of Agriculture, Natural Resources Conservation Service in 1999.  It is Illinois Agricultural Experiment Station Soil Report No. 155, ""Soil Survey of Pike County, Illinois"".  Reference to the prior soil survey will be included in the literature citation of the manuscript.
+
+This update survey replaces the prior soil survey and provides additional data, updated soil interpretations, and digital soil maps at a 1:12,000 scale on an orthophoto base.
+
+Join statement: Pike County joins three modern soil surveys.  
+
+Adams County - Update survey to be certified 2001
+Brown County - Modern soil survey (1998)
+Calhoun County - Modern soil survey (1989)
+
+
+An exact join will be completed with the updated Adams County survey.  An acceptable join will be completed with the remaining adjacent counties.
+
+Disposition of field sheets: The 135 published soil atlas sheets at a scale of 1:15,840 were rectified and ratioed to a scale of 1:12,000.  These maps serve as the base maps for the update soil survey of Pike County.  The published maps were used to recompile the soils layer onto Mylar sheets with 1:12,000 scale orthophoto quarter quads serving as a base.  Publication scale is 1:12,000 according to SSURGO standards.  Copies of a computer tape of the final  digital product will remain at the Illinois NRCS state office.  Digital spatial and attribute data will be provided to the Pike County Board as part of the cost share cooperative agreement. 
+
+Instructions for map compilation and map finishing: Map recompilation has been completed by the Springfield MLRA team. The  soil layer is recompiled on Mylar separates at a 1:12,000 scale.  The hydrography, and connventional and special symbols layers will be recompiled onscreen using ARCINFO at a scale of 1:12,000.  The soils layer will be delivered to the Digitizing Center for scanning and digital processing.  The hydrography layer and the conventional and special symbols layer will be delivered to the Illinois NRCS state office. 
+
+Symbols for map finishing are those approved for SSURGO standards and as shown in this document.  The Springfield MLRA team and the Illinois NRCS state office GIS staff will complete a final check of the digital materials before delivering the product to the Digitizing Center for SSURGO certification.
+
+Conventional and special symbols legend:  Only those symbols indicated on the attached NRCS-SOILS-37A will be shown on the legend and placed on the maps.  Cultural features that appear on the 7.5 minute series topographic quadrangle will appear on the published maps.  During compilation, only those cultural features that do not appear on the 7.5 minute series topographic quadrangle have been compiled as a separate layer using ARCINFO
+
+
+
+
+Definitions and Guidelines for Use of Conventional and Special Symbols
+for Pike County, Illinois 
+
+DescriptionLabelDefinitions and Guidelinese
+
+Cultural Features
+CemeteryCEMEShow if one acre or larger.  Label with the proper name or the word cemetery if the tract is large enough.  Label smaller cemeteries with the cross symbol.  Do not show boundaries of extent.
+
+Land Division Corners (section)
+
+Interstate, Federal, and State Road interstate, federal, Emblems
+Use appropriate symbols for and state roads.  Other roads will not be labeled.
+
+Hydrographic Features
+Unclassified streamStreams which may or may not flow water throughout year.  They are less than 100 feet in width on the landscape or less than 0.10 inch on the atlas sheet.
+
+Unclassified drainage and/or irrigation ditch
+Drainage endAdd to 37A
+
+Landform Features
+Depression, closed DEPA shallow, saucer-shaped area slightly lower on the landscape than the surrounding area, but without a natural outlet for surface drainage. Typically 1/4  to 3 acres.
+
+Escarpment, bedrockESBA relatively continuous and steep slope or cliff produced by erosion or faulting breaking the general continuity of more gently sloping land surfaces.  Exposed material is hard or soft bedrock.
+
+Escarpment, otherESOA relatively continuous and steep slope or cliff generally produced by erosion, but can be produced by faulting breaking the continuity of more gently sloping land surfaces. Exposed nonbedrock material is nonsoil or very shallow, poorly developed soil. 
+
+Short steep slopeSLPNarrow soil area that has slopes that are at least 2 slope classes steeper than the slope class of the surrounding map unit.
+
+Excavations
+Gravel pitGPIAn open excavation from which soil and underlying material have been removed, and used without crushing, as a source of sand or gravel. Typically 1/4  to 2 acres.
+
+Mine or quarryMPIAn open excavation from which soil and underlying material is removed exposing the bedrock.  Also used to denote surface openings to underground mines.  Typically 1/4 to 2 acres. 
+
+Miscellaneous surface features
+
+Marsh or swampMARA water saturated, very poorly drained area, intermittently or permanently water-covered. Marsh areas are dominantly covered by sedges, cattails, and rushes. Swamps are dominantly covered by trees or shrubs. Not used in map units where poorly drained or very poorly drained soils are the named components. Typically 1/2 to 3 acres.
+
+Rock outcrop (includes sandstone and shaleROCAn exposure of bedrock at the surface of the earth.  Not used where the named soils of the surrounding map unit are shallow over bedrock.  Typically 1/4 to 2 acres.
+
+Sandy spotSANSurface layer with sand content greater than 75 percent in areas where the surface layer of the named soils of the surrounding map unit have less than about 25 percent sand. Typically 1/2 to 3 acres.
+
+Severely eroded spotEROAn area where on the average 75 percent or more of the original surface layer has been lost from accelerated erosion. Typically 1/2 to 3 acres.
+
+
+
+Sinkhole, levees, drainage end, gravelly spot, and wet spot are marked on the 37A, but are not listed here under definitions and guidelines for special features!
+
+Soil Mapunit Symbol Conversion Legend
+Pike County, Illinois
+
+
+Field symbols
+Publi- cation symbol
+
+
+5C2
+515C2
+5C2
+652C2
+5C3
+515C3
+5C3
+652C3
+5D2
+515D2
+
+
+5D2
+652D2
+5D3
+515D3
+5D3
+652D3
+8D2
+8D2
+8D2
+651D2
+
+
+8D3
+651D3
+8D3
+8D3
+8E
+8F
+8E
+559F
+8E2
+8E2
+
+
+8E2
+651E2
+8F
+8F
+8G
+8G
+8G
+559G
+17A
+17A
+
+
+17B
+17B
+19B2
+630B2
+19C2
+630C2
+19D3
+19D3
+19C3
+630C3
+
+
+30F
+30F
+30G
+30G
+36B
+441B
+37B
+7037B
+43A
+43A
+
+
+43B
+43B
+46
+699A
+50
+50A
+50A
+50A
+61
+90A
+
+
+75B
+7075B
+75C
+75C
+75C2
+75C2
+79B
+79B
+79C2
+79C2
+
+
+79C3
+79C3
+79D2
+79D2
+79D3
+79D3
+79E2
+79E2
+90A
+90A
+
+
+119D2
+119D2
+119D3
+119D3
+119E2
+119E2
+175F
+175F
+175G
+175G
+
+
+216B
+216B
+216C2
+216C2
+216C3
+216C3
+216D2
+216D2
+216D3
+216D3
+
+
+242A
+242A
+242A
+7242A
+257A
+257A
+257B
+257B
+264D3
+264D3
+264E
+175F
+
+
+264E
+264E2
+264E2
+264E2
+264G
+175G
+264G
+264G
+267A
+267A
+
+
+267B
+267B
+271C3
+271C3
+271D3
+271D3
+271D3
+271D3
+271E2
+856E2
+
+
+274B
+216B
+274B
+274B
+274C2
+216C2
+274C3
+216C3
+274D2
+216D2
+274D3
+216D3
+
+
+274E
+856274F
+274E
+943F
+274E2
+856E2
+274G
+274G
+274G
+856G
+
+
+278B
+267B
+278A
+278A
+278A
+267A
+279B
+279B
+279C2
+279C2
+279C3
+279C3
+
+
+280B
+280B
+280B
+79B
+280C2
+280C2
+280C2
+79C2
+280C3
+79C3
+280C3
+280C3
+280D2
+280D2
+280D2
+79D2
+
+
+280D3
+79D3
+280D3
+280D3
+280E2
+79E2
+283B
+283B
+283C2
+283C2
+
+
+386B
+283B
+386C2
+283C2
+403G
+403G
+403G
+403G
+430B
+7430B
+
+
+430B
+8674A
+441B
+441B
+472D2
+472D2
+472E2
+472E2
+477B
+477B
+
+
+477C2
+477C2
+477C3
+477C3
+515C2
+515C2
+515C3
+515C3
+515D2
+515D2
+
+
+515D3
+515D3
+549E2
+549E2
+549F
+549F
+549G
+549G
+551E2
+549E2
+
+
+551E2
+549F
+551G
+549G
+559F
+559F
+559G
+559G
+605D2
+651D2
+
+
+605D2
+655D2
+605D3
+651D3
+605D3
+655D3
+605E2
+651E2
+605E2
+655E2
+
+
+606E
+606F
+606G
+606G
+630B2
+630B2
+630C2
+630C2
+630C3
+630C3
+
+
+651D2
+651D2
+651D3
+651D3
+651E2
+651E2
+652C2
+652C2
+652C3
+652C3
+
+
+652D2
+652D2
+652D3
+652D3
+655D2
+655D2
+655D3
+655D3
+655E2
+655E2
+
+
+699A
+699A
+785G
+785G
+815
+7815B
+835G
+835G
+856E2
+856E2
+
+
+856F
+856F
+856G
+856G
+864
+864
+865
+865
+937E
+559F
+937E
+8F
+937E
+856F
+943F
+943274F
+1070L
+1070L
+3028
+3028A
+3028A
+3028A
+
+
+3070
+3070A
+3070A
+3070A
+3070L
+3070L
+3071L
+3071L
+3092
+3092A
+
+
+3092A
+3092A
+3092L
+3092L
+3162A
+3162A
+3302
+3162A
+3302L
+3302L
+
+
+3331
+3331A
+3331A
+3331A
+3331L
+3331L
+3333
+3333A
+3333A
+3333A
+
+
+3333L
+3333L
+3404
+3404A
+3404A
+3404A
+3404L
+3404L
+3415
+3415A
+
+
+3415A
+3415A
+3415L
+3415L
+3428
+3428A
+3428A
+3428A
+3428L
+3428L
+
+
+3475
+3475A
+3475A
+3475A
+3475L
+3475L
+3877L
+3877L
+
+
+4070
+1070L
+4070
+3070L
+
+
+7088
+7088A
+7088A
+7088A
+7242A
+7242A
+7430B
+7430B
+7815B
+7815B
+8070
+8070A
+
+
+8070A
+8070A
+8071
+8071A
+8071A
+8071A
+8092
+8092A
+8092A
+8092A
+
+
+8162A
+8162A
+8180
+8180A
+8180A
+8180A
+8183
+8183A
+8183A
+8183A
+
+
+8217
+8217A
+8217A
+8217A
+8284
+8284A
+8284A
+8284A
+8288
+8288A
+
+
+8288A
+8288A
+8302
+8302A
+8302A
+8302A
+8331
+8331A
+8331A
+8331A
+
+
+8331
+8634A
+8333
+8333A
+8333A
+8333A
+8341
+8162A
+8349B
+8349B
+8395
+8395A
+
+
+8395A
+8395A
+8396
+8396A
+8396A
+8396A
+8404
+8404A
+8404A
+8404A
+
+
+8415
+8415A
+8415A
+8415A
+8428
+8428A
+8428A
+8428A
+8451
+8451A
+
+
+8451A
+8451A
+8452
+8452A
+8452A
+8452A
+8634A
+8634A
+8674A
+8674A
+
+
+8789
+8789A
+8789A
+8789A
+9278A
+9278A
+9278B
+9278B
+9279B
+9279B
+9279C
+9279C
+
+
+
+Alphabetical Soil Identification Legend
+Pike County, Illinois
+
+Map symbol
+Approved map unit name
+
+ 
+3302L  
+Ambraw clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+8302A  
+Ambraw clay loam, 0 to 2 percent slopes, occasionally flooded 
+8789A  
+Ambraw-Ceresco-Sarpy complex, 0 to 2 percent slopes, occasionally flooded
+472D2  
+Baylis silt loam, 10 to 18 percent slopes, eroded 
+472D2  
+Baylis silt loam, 10 to 18 percent slopes, eroded 
+472E2  
+Baylis silt loam, 158 to 3025 percent slopes, eroded 
+3070A  
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded
+3070L  
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration 
+8070A  
+Beaucoup silty clay loam, 0 to 2 percent slopes, occasionally flooded 
+1070L  
+Beaucoup silty clay loam, 0 to 2 percent slopes, undrained, occasionally flooded, long duration
+90A    
+Bethalto silt loam, 0 to 2 percent slopes     
+3877L
+Blake-Slacwater silt loams, 0 to 2 percent slopes, frequently flooded, long duration
+8634A  
+Blyton silt loam, 0 to 2 percent slopes, occasionally flooded 
+515D2  
+Bunkum silt loam, 10 to 18 percent slopes, eroded 
+515C2  
+Bunkum silt loam, 5 to 10 percent slopes, eroded 
+515D3  
+Bunkum silty clay loam, 10 to 18 percent slopes, severely eroded
+515C3  
+Bunkum silty clay loam, 5 to 10 percent slopes, severely eroded
+267A   
+Caseyville silt loam, 0 to 2 percent slopes   
+267B   
+Caseyville silt loam, 2 to 5 percent slopes   
+8395A  
+Ceresco loam, 0 to 2 percent slopes, occasionally flooded 
+257A   
+Clarksdale silt loam, 0 to 2 percent slopes   
+257B   
+Clarksdale silt loam, 2 to 5 percent slopes   
+3428A  
+Coffeen silt loam, 0 to 2 percent slopes, frequently flooded
+3428L  
+Coffeen silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+8428A  
+Coffeen silt loam, 0 to 2 percent slopes, occasionally flooded
+8071A  
+Darwin silty clay loam, 0 to 2 percent slopes, occasionally flooded
+3071L  
+Darwin silty clay, 0 to 2 percent slopes, frequently flooded, long duration 
+283B   
+Downsouth silt loam, 2 to 5 percent slopes    
+283C2  
+Downsouth silt loam, 5 to 10 percent slopes, eroded
+8674A  
+Dozaville silt loam, 0 to 2 percent slopes, occasionally flooded
+7075B    
+Drury silt loam, 2 to 5 percent slopes, rarely flooded        
+75C    
+Drury silt loam, 5 to 10 percent slopes       
+75C2   
+Drury silt loam, 5 to 10 percent slopes, eroded 
+8180A  
+Dupo silt loam, 0 to 2 percent slopes, occasionally flooded
+835G   
+Earthen Dam                                   
+264G   
+El Dara fine sandy loam, 35 to 60 percent slopes 
+264D3  
+El Dara sandy loam, 10 to 18 percent slopes, severely eroded
+264E2  
+El Dara sandy loam, 18 to 25 percent slopes, eroded
+119D2  
+Elco silt loam, 10 to 18 percent slopes, eroded 
+119E2  
+Elco silt loam, 18 to 25 percent slopes, eroded 
+119D3  
+Elco silty clay loam, 10 to 18 percent slopes, severely eroded
+403G   
+Elizabeth very channery silt loam, 35 to 60 percent slopes
+3475A  
+Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded 
+3475L  
+Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded, long duration
+280B   
+Fayette silt loam, 2 to 5 percent slopes      
+280C2  
+Fayette silt loam, 5 to 10 percent slopes, eroded 
+280D2  
+Fayette silt loam, 10 to 18 percent slopes, eroded 
+280C3  
+Fayette silty clay loam, 5 to 10 percent slopes, severely eroded 
+280D3  
+Fayette silty clay loam, 10 to 18 percent slopes, severely eroded 
+3162A  
+Gorham silty clay loam, 0 to 2 percent slopes, frequently flooded
+8162A  
+Gorham silty clay loam, 0 to 2 percent slopes, occasionally flooded
+606F   
+Goss gravelly silt loam, 18 to 35 percent slopes 
+606G   
+Goss gravelly silt loam, 35 to 60 percent slopes 
+30F    
+Hamburg silt, 18 to 35 percent slopes         
+30G    
+Hamburg silt, 35 to 60 percent slopes         
+3331A  
+Haymond silt loam, 0 to 2 percent slopes, frequently flooded 
+3331L  
+Haymond silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+8331A  
+Haymond silt loam, 0 to 2 percent slopes, occasionally flooded
+8D3    
+Hickory clay loam, 10 to 18 percent slopes, severely eroded 
+8D2    
+Hickory loam, 10 to 18 percent slopes, eroded 
+8E2    
+Hickory loam, 18 to 25 percent slopes, eroded 
+8F     
+Hickory silt loam, 18 to 35 percent slopes    
+8G     
+Hickory silt loam, 35 to 60 percent slopes    
+43A    
+Ipava silt loam, 0 to 2 percent slopes        
+43B    
+Ipava silt loam, 2 to 5 percent slopes        
+3028A  
+Jules silt loam, 0 to 2 percent slopes, frequently flooded 
+242A   
+Kendall silt loam, 0 to 2 percent slopes      
+7242A    
+Kendall silt loam, 0 to 2 percent slopes, rarely flooded      
+17A    
+Keomah silt loam, 0 to 2 percent slopes       
+17B    
+Keomah silt loam, 2 to 5 percent slopes       
+651D3  
+Keswick clay loam, 10 to 18 percent slopes, severely eroded
+651D2  
+Keswick loam, 10 to 18 percent slopes, eroded 
+651E2  
+Keswick loam, 18 to 25 percent slopes, eroded 
+785G   
+Lacrescent channery silt loam, 35 to 60 percent slopes
+175F   
+Lamont sandy loam, 18 to 35 percent slopes    
+175G   
+Lamont sandy loam, 35 to 60 percent slopes    
+8451A  
+Lawson silt loam, 0 to 2 percent slopes, occasionally flooded 
+559F   
+Lindley loam, 18 to 35 percent slopes         
+559G   
+Lindley loam, 35 to 60 percent slopes         
+549E2  
+Marseilles silt loam, 18 to 25 percent slopes, eroded
+549F   
+Marseilles silt loam, 18 to 35 precut slopes  
+549G   
+Marseilles silt loam, 35 to 60 percent slopes 
+79B    
+Menfro silt loam, 2 to 5 percent slopes       
+79C2   
+Menfro silt loam, 5 to 10 percent slopes, eroded 
+79D2   
+Menfro silt loam, 10 to 18 percent slopes, eroded 
+79E2   
+Menfro silt loam, 18 to 25 percent slopes, eroded 
+79C3   
+Menfro silty clay loam, 5 to 10 percent slopes, severely eroded 
+79D3   
+Menfro silty clay loam, 10 to 18 percent slopes, severely eroded 
+MW
+Miscellaneous water
+630B2  
+Navlys silt loam, 2 to 5 percent slopes, eroded 
+630C2  
+Navlys silt loam, 5 to 10 percent slopes, eroded
+630C3  
+Navlys silty clay loam, 5 to 10 percent slopes, severely eroded 
+3415A  
+Orion silt loam, 0 to 2 percent slopes, frequently flooded 
+3415L  
+Orion silt loam, 0 to 2 percent slopes, frequently flooded, long duration 
+8415A  
+Orion silt loam, 0 to 2 percent slopes, occasionally flooded
+652C2  
+Passport silt loam, 5 to 10 percent slopes, eroded
+652D2  
+Passport silt loam, 10 to 18 percent slopes, eroded
+652C3  
+Passport silty clay loam, 5 to 10 percent slopes, severely eroded
+652D3  
+Passport silty clay loam, 10 to 18 percent slopes, severely eroded 
+8288A  
+Petrolia silt loam, 0 to 2 percent slopes, occasionally flooded
+865    
+Pits, gravel                                  
+864    
+Pits, quarries                                
+7430B  
+Raddle silt loam, 2 to 5 percent slopes, rarely flooded       
+8452A  
+Riley silty clay loam, 0 to 2 percent slopes, occasionally flooded
+279B   
+Rozetta silt loam, 2 to 5 percent slopes      
+279C2  
+Rozetta silt loam, 5 to 10 percent slopes, eroded 
+9279B  
+Rozetta silt loam, terrace, 2 to 5 percent slopes 
+9279C
+Rozetta silt loam, terrace, 5 to 10 percent slopes, eroded
+279C3  
+Rozetta silty clay loam, 5 to 10 percent slopes, severely eroded 
+3092L  
+Sarpy loamy fine sand, 0 to 2 percent slopes, frequently flooded, long duration
+8092A  
+Sarpy sand, 0 to 2 percent slopes, occasionally flooded
+3092A  
+Sarpy loamy sand, 0 to 2 percent slopes, frequently flooded 
+274B   
+Seaton silt loam, 2 to 5 percent slopes       
+274G   
+Seaton silt loam, 35 to 60 percent slopes     
+274F   
+Seaton- silt loam, 18 to 35 percent slopes
+8183A  
+Shaffton clay loam, 0 to 2 percent slopes, occasionally flooded
+7088A  
+Sparta loamy fine sand, 0 to 2 percent slopes, rarely flooded
+856E2  
+Stookey and Timula soils, 18 to 25 percent slopes, eroded
+856F   
+Stookey and Timula soils, 18 to 35 percent slopes
+856G   
+Stookey and Timula soils, 35 to 60 percent slopes
+216B   
+Stookey silt loam, 2 to 5 percent slopes      
+216C2  
+Stookey silt loam, 5 to 10 percent slopes, eroded 
+216C3  
+Stookey silt loam, 5 to 10 percent slopes, severely eroded 
+216D2  
+Stookey silt loam, 10 to 18 percent slopes, eroded 
+216D3  
+Stookey silt loam, 10 to 18 percent slopes, severely eroded 
+278A   
+Stronghurst silt loam, 0 to 2 percent slopes  
+9278A
+Stronghurst silt loam, terrace, 0 to 2 percent slopes
+9278B
+Stronghurst silt loam, terrace, 2 to 5 percent slopes
+19D3   
+Sylvan silty clay loam, 10 to 18 percent slopes, severely eroded 
+8284A  
+Tice silty clay loam, 0 to 2 percent slopes, occasionally flooded 
+699A   
+Timewell silt loam, 0 to 2 percent slopes     
+271D3  
+Timula silt loam, 10 to 18 percent slopes, severely eroded 
+271C3  
+Timula silt loam, 5 to 10 percent slopes, severely eroded 
+3404A  
+Titus silty clay loam, 0 to 2 percent slopes, frequently flooded
+3404L  
+Titus silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+8404A  
+Titus silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8217A  
+Twomile silt loam, 0 to 2 percent slopes, occasionally flooded 
+7815B  
+Udorthents, silty, undulating, rarely flooded 
+655D2  
+Ursa silt loam, moderately wet, 10 to 18 percent slopes, eroded
+655E2  
+Ursa silt loam, moderately wet, 18 to 25 percent slopes, eroded
+655D3  
+Ursa silty clay loam, moderately wet, 10 to 18 percent slopes, severely eroded
+8396A  
+Vesser silt loam, 0 to 2 percent slopes, occasionally flooded
+50A    
+Virden silty clay loam, 0 to 2 percent slopes 
+3333A  
+Wakeland silt loam, 0 to 2 percent slopes, frequently flooded
+3333L  
+Wakeland silt loam, 0 to 2 percent slopes, frequently flooded, long duration 
+8333A  
+Wakeland silt loam, 0 to 2 percent slopes, occasionally flooded 
+441B   
+Wakenda silt loam, 2 to 5 percent slopes      
+W      
+Water                                         
+477B   
+Winfield silt loam, 2 to 5 percent slopes     
+477C2  
+Winfield silt loam, 5 to 10 percent slopes, eroded 
+477C3  
+Winfield silty clay loam, 5 to 10 percent slopes, severely eroded 
+7037B    
+Worthen silt loam, 2 to 5 percent slopes, rarely flooded     
+8349B
+Zumbro sandy loam, 1 to 6 percent slopes, occasionally flooded
+
+
+Classification of Pedons Sampled for Laboratory Analysis
+For Pike County, Illinois
+A Subset of MLRA 115C
+
+
+There were no additional pedons sampled during this update.  The list of pedons sampled for analysis is contained in the 1992 correlation document.
+
+
+
+
+
+
+
+Notes to Accompany the 
+Classification and Correlation 
+of the Soils of Pike County
+Prepared by John C. Doll
+Pike County, Illinois
+
+
+Map symbol
+Mapunit Name 
+Mapunit text notes
+DMU
+
+ 
+
+
+8D2
+Hickory loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 29005 
+The taxonomic unit description is: 95IL-017-002 
+The map unit representative pedon is: 81IL-131-040 
+These soils in pre-Illinoian areas will be correlated to Keswick.
+29,005
+
+
+
+
+8D3
+Hickory clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 41064 
+The taxonomic unit description is: 95IL-017-002 
+The map unit representative pedon is: 95IL-073-001 
+These soils in pre-Illinoian areas are correlated to Keswick.
+41,064
+
+
+
+
+8E2
+Hickory loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 30759 
+The taxonomic unit description is: 95IL-017-002 
+The map unit representative pedon is: 93IL-057-022 
+These soils in pre-Illinoian areas are correlated to Keswick in areas that are pasture or hayland.  Wooded areas are correlated to Lindley.
+30,759
+
+
+
+
+8F
+Hickory silt loam, 18 to 35 percent slopes
+This map unit linked to dmu: 30760 
+The taxonomic unit description is: 95IL-017-002 
+The map unit representative pedon is: 94IL-057-141 
+These soils in pre-Illinoian area are correlated to Lindley. Areas of Seaton-Hickory complex will be compiled as consociations with Seaton unit above the Hickory (Lindley in pre-Illinoian areas) unit.
+30,760
+
+
+
+
+8G
+Hickory silt loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30761 
+The taxonomic unit description is: 95IL-017-002 
+The map unit representative pedon is: 97IL-001-002. 
+These soils in pre-Illinoian areas are correlated to Lindley.
+30,761
+
+ 
+
+
+17A
+Keomah silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 30763 
+The taxonomic unit description is: 95IL-001-023 
+The map unit representative pedon is: 95IL-001-023.
+Some pedons have an abrupt texture change.
+30,763
+
+
+
+
+17B
+Keomah silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30764 
+The taxonomic unit description is: 95IL-001-0023 
+The map unit representative pedon is: 82IL-009-020
+30,764
+
+
+
+
+19D3
+Sylvan silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 29012 
+The taxonomic unit description is: 95IL-017-033OSD 
+The map unit representative pedon is: 82IL-017-002 
+These soils have water tables greater than 6 ft.
+29,012
+
+ 
+
+
+30F
+Hamburg silt, 18 to 35 percent slopes
+This map unit linked to dmu: 29228 
+The taxonomic unit description is: 81IL-017-050 
+The map unit representative pedon is: Randolph Co pedon. These soils in Pike County are on the low end of the range for very fine sand content.
+29,228
+
+ 
+
+
+30G
+Hamburg silt, 35 to 60 percent slopes
+This map unit linked to dmu: 46789 
+The taxonomic unit description is: 81IL-017-050 
+The map unit representative pedon is: 81IL-017-050 
+These soils in Pike County are on the low end of the range for very fine sand content.
+46,789
+
+ 
+
+
+7037B
+Worthen silt loam, 2 to 5 percent slopes, rarely flooded
+This map unit linked to dmu: 30766 
+The taxonomic unit description is: 95IL-606-042 OSD pedon. 
+The map unit representative pedon is: 95IL-606-042. Slopes adjusted from 1-4% to 2-5% to fit the MLRA 115 legend.
+30,766
+
+ 
+
+
+43A
+Ipava silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 28262 
+The taxonomic unit description is: 78IL-095-016 (OSD pedon) 
+The map unit representative pedon is:  78IL-095-016
+28,262
+
+ 
+
+
+43B
+Ipava silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 46028 
+The taxonomic unit description is: 78IL-095-016 
+The map unit representative pedon is: 87IL-187-071
+46,028
+
+ 
+
+
+50A
+Virden silty clay loam, 0 to 2 percent slopes
+This map unit linked to dmu: 43193 
+The taxonomic unit description is: 00IL-001-006 (OSD pedon) 
+The map unit representative pedon is: 00IL-001-006
+43,193
+
+ 
+
+
+7075B
+Drury silt loam, 2 to 5 percent slopes, rarely flooded
+This map unit linked to dmu: 30769 
+The taxonomic unit description is: 87IL-149-045 (Proposed new OSD pedon) 
+The map unit representative pedon is: 87IL-149-045.
+30,769
+
+ 
+
+
+75C
+Drury silt loam, 5 to 10 percent slopes
+This map unit linked to dmu: 29233 
+The taxonomic unit description is: 87IL-149-045 
+The map unit representative pedon is: 88IL-169-042.
+29,233
+
+ 
+
+
+75C2
+Drury silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30770 
+The taxonomic unit description is: 87IL-149-045 
+The map unit representative pedon is:???
+30,770
+
+ 
+
+
+79B
+Menfro silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30771 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: 97IL-001-016. 
+These soils previously correlated as Fayette in warm mesic areas of Pike County.
+30,771
+
+ 
+
+
+79C2
+Menfro silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30772 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: 88IL-149-016. 
+These soils previously correlated as Fayette in warm mesic areas in Pike County.
+30,772
+
+ 
+
+
+79C3
+Menfro silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30773 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: 86IL-149-043. 
+These soils previously correlated Fayette in warm mesic areas in Pike County.
+30,773
+
+ 
+
+
+79D2
+Menfro silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 30774 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: ???
+These soils previously correlated Fayette in warm mesic areas in Pike County.
+30,774
+
+ 
+
+
+79D3
+Menfro silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30775 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: 87IL-149-037 
+These soils previously correlated Fayette in warm mesic areas in Pike County.
+30,775
+
+ 
+
+
+79E2
+Menfro silt loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 46897 
+The taxonomic unit description is: 97IL-001-016 
+The map unit representative pedon is: 87IL-149-036 
+These soils previously correlated Fayette in warm mesic areas in Pike County.
+46,897
+
+ 
+
+
+90A
+Bethalto silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 30779 
+The taxonomic unit description is: 95IL-001-025 
+The map unit representative pedon is: 95IL-001-025. 
+These soils were previously correlated Atterberry in warm mesic areas of Pike County.
+30,779
+
+ 
+
+
+119D2
+Elco silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 46022 
+The taxonomic unit description is: 97IL-167-026 (OSD pedon) 
+The map unit representative pedon is: 77IL-037-018 
+These soils in Pike County are very strongly acid the Bt horizon. Suggest expanding OSD range.
+46,022
+
+ 
+
+
+119D3
+Elco silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 46032 
+The taxonomic unit description is: 97IL-167-026 (OSD pedon) 
+The map unit representative pedon is: 97IL-037-102
+46,032
+
+ 
+
+
+119E2
+Elco silt loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 29026 
+The taxonomic unit description is: 97IL-167-026 (OSD pedon) 
+The map unit representative pedon is: 94IL-157-134.
+29,026
+
+ 
+
+
+175F
+Lamont sandy loam, 18 to 35 percent slopes
+This map unit linked to dmu: 30783 
+The taxonomic unit description is: 97IL-001-019 
+The map unit representative pedon is: ???
+These soils previously mapped as El Dara in areas of Pike County that that do not have cretaceous deposits.  (El Dara continues to be mapped in Cretaceous areas.)
+30,783
+
+ 
+
+
+175G
+Lamont sandy loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30784 
+The taxonomic unit description is: 97IL-001-019 
+The map unit representative pedon is: 97IL-001-019 
+These soils were previously correlated as El Dara in areas of Pike County that do not have Cretaceous deposits. (El Dara is still mapped in the Cretaceous deposits.)
+30,784
+
+ 
+
+
+216B
+Stookey silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30785 
+The taxonomic unit description is: 95IL-001-036 
+The map unit representative pedon is: 95IL-001-036 
+These soils previously correlated Seaton in warm mesic areas in Pike County.
+30,785
+
+ 
+
+
+216C2
+Stookey silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30786 
+The taxonomic unit description is: 95IL-001-036 
+The map unit representative pedon is: ???
+These soils previously correlated Seaton in warm mesic areas in Pike County.
+30,786
+
+ 
+
+
+216C3
+Stookey silt loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30787 
+The taxonomic unit description is: 95IL-001-036 
+The map unit representative pedon is: 86IL-149-028 
+These soils previously correlated Seaton in warm mesic areas in Pike County.
+30,787
+
+ 
+
+
+216D2
+Stookey silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 30788 
+The taxonomic unit description is: 95IL-001-036 
+The map unit representative pedon is: 84IL-013-012 
+These soils previously correlated Seaton in warm mesic areas in Pike County.
+30,788
+
+
+
+
+216D3
+Stookey silt loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30789 
+The taxonomic unit description is: 95IL-001-036 
+The map unit representative pedon is: ???
+These soils previously correlated Seaton in warm mesic areas in Pike County.
+30,789
+
+ 
+
+
+242A
+Kendall silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 43903 
+The taxonomic unit description is: 98IL-041-022 
+The map unit representative pedon is: 98IL-041-022 Some areas of Stronghurst soils (278A) on terrace positions will be correlated to this map unit.
+43,903
+
+ 
+
+
+257A
+Clarksdale silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 30790 
+The taxonomic unit description is: 95IL-021-010 (OSD pedon) 
+The map unit representative pedon is: 95IL-021-010
+30,790
+
+ 
+
+
+257B
+Clarksdale silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30791 
+The taxonomic unit description is: 95IL-021-010 (OSD pedon) 
+The map unit representative pedon is: 80IL-009-014
+30,791
+
+ 
+
+
+264D3
+El Dara sandy loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30794 
+The taxonomic unit description is: 96IL-001-059 (OSD pedon) 
+The map unit representative pedon is: These areas correlated to Lamont in non-cretaceous areas of Pike County.
+30,794
+
+ 
+
+
+264E2
+El Dara sandy loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 30795 
+The taxonomic unit description is: 96IL-001-059 (OSD pedon) 
+The map unit representative pedon is: ???
+These soils are correlated Lamont in non-cretaceous areas in Pike County.
+30,795
+
+ 
+
+
+264G
+El Dara fine sandy loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30796 
+The taxonomic unit description is: 96IL-001-059 (OSD pedon) 
+The map unit representative pedon is: ???
+These soils correlated Lamont in non-cretaceous areas in Pike County.
+This mapunit is less acid in the lower part of the profile than defined for the series.
+30,796
+
+ 
+
+
+267A
+Caseyville silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 30797 
+The taxonomic unit description is: 97IL-149-034 
+The map unit representative pedon is: 97IL-149-034 
+These soils previously correlated Stronghurst in warm mesic areas in Pike County. These soils are not as gray in the upper part of the argillic horizon as defined for the series.  They are taxadjuncts that classify as fine-silty, mixed, superactive, mesic Aquic Hapludalfs.
+30,797
+
+ 
+
+
+267B
+Caseyville silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30798 
+The taxonomic unit description is: 97IL-149-034 
+The map unit representative pedon is: 87IL-149-020 
+These soils were previously correlated Stronghurst in warm mesic areas in Pike County. These soils are not as gray in the upper part of the argillic horizon as defined for the series.  In Pike County these soils classify as fine-silty, mixed, superactive, mesic Aquic Hapludalfs.
+30,798
+
+ 
+
+
+271C3
+Timula silt loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 46796 
+The taxonomic unit description is: 95IL-001-037 
+The map unit representative pedon is: 88IL-149-021 This map unit has carbonates at 7 inches and classifies as Typic Eutrudept but is not considered a taxadjunct. The low chroma colors in the TUD are considered to be relict and not redox features.
+46,796
+
+ 
+
+
+271D3
+Timula silt loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 46797 
+The taxonomic unit description is: 95IL-001-037 
+The map unit representative pedon is: 88IL-149-024 
+These soils in Pike County have carbonates at the surface, no Bw horizons, and classify as fine-silty, mixed, superactive, mesic Typic Udorthents.  They are taxadjuncts. The low chroma colors in the TUD are relict and not indicative of wetness.
+46,797
+
+ 
+
+
+274B
+Seaton silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 32350 
+The taxonomic unit description is: 83IL-195-120 
+The map unit representative pedon is: 83IL-195-120 Correlated in cool, mesic areas of Pike County, primarily along the Brown County line.
+32,350
+
+ 
+
+
+274F
+Seaton silt loam, 18 to 35 percent slopes
+This map unit linked to dmu: Fulton Co. 
+The taxonomic unit description is: 83IL-195-120 
+The map unit representative pedon is: 94IL-057-115. Correlated in cool, mesic areas of Pike County, primarily along the Brown County line.
+
+274G
+Seaton silt loam, 35 to 60 percent slopes
+This unit in Schuyler Co. is linked to DMU ID 29040, but has the same rep. Pedons. Do they join and should they be linked to the same DMU?Should be the same
+This map unit linked to dmu: 42594 29040
+The taxonomic unit description is: 83IL-195-120 
+The map unit representative pedon is: 93IL-057-026 Correlated for units in cool, mesic area for joining, mainly along the Brown County line.  Other areas of 274G are correlated to Seaton-Timula complex (cool mesic) or Stookey and Timula, undiff (warm mesic).
+42,594
+29040
+
+ 
+
+
+278A
+Stronghurst silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 41142 
+The taxonomic unit description is: 82IL-011-072 
+The map unit representative pedon is: 82IL-011-072 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated to Caseyville.
+41,142
+
+ 
+
+
+279B
+Rozetta silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30803 
+The taxonomic unit description is: 95IL-057-001 
+The map unit representative pedon is: 95IL-057-001 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated to Winfield.
+30,803
+
+ 
+
+
+279C2
+Rozetta silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 29042 
+The taxonomic unit description is: 95IL-057-001 
+The map unit representative pedon is: 93IL-057-065 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated to Winfield.
+29,042
+
+ 
+
+
+279C3
+Rozetta silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30805 
+The taxonomic unit description is: 95IL-057-001 
+The map unit representative pedon is: 90IL-057-047 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated to Winfield.
+30,805
+
+ 
+
+
+280B
+Fayette silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 32358 
+The taxonomic unit description is: 84IL-195-315 
+The map unit representative pedon is: 84IL-195-315 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated Menfro.
+The lower part of the Bt horizon in many pedons is silt loam; series as written allows only silty clay loam,. BC horizons were previously described with clay films: the horizons are now Bt horizons.
+32,358
+
+ 
+
+
+280C2
+Fayette silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 28294 
+The taxonomic unit description is: 84IL-195-315 
+The map unit representative pedon is: 93Il-057-013 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated Menfro.
+The lower part of the Bt horizon in many pedons is silt loam; series as written allows only silty clay loam,. BC horizons were previously described with clay films: the horizons are now Bt horizons.
+28,294
+
+ 
+
+
+280C3
+Fayette silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 41146 
+The taxonomic unit description is: 84IL-195-315 
+The map unit representative pedon is: 83Il-011-102 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated Menfro.
+The lower part of the Bt horizon in many pedons is silt loam; series as written allows only silty clay loam,. BC horizons were previously described with clay films: the horizons are now Bt horizons.
+41,146
+
+ 
+
+
+280D2
+Fayette silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 29046 
+The taxonomic unit description is: 84IL-195-315 
+The map unit representative pedon is: 89IL-057-027 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated Menfro.
+The lower part of the Bt horizon in many pedons is silt loam; series as written allows only silty clay loam,. BC horizons were previously described with clay films: the horizons are now Bt horizons.
+29,046
+
+ 
+
+
+280D3
+Fayette silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 46101 
+The taxonomic unit description is: 84IL-195-315 
+The map unit representative pedon is: 87IL-187-068 Correlated in cool mesic areas in Pike County.  Warm mesic areas correlated Menfro.
+The lower part of the Bt horizon in many pedons is silt loam; series as written allows only silty clay loam,. BC horizons were previously described with clay films: the horizons are now Bt horizons.
+46,101
+
+ 
+
+
+283B
+Downsouth silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30806 
+The taxonomic unit description is: 95Il-001-043 
+The map unit representative pedon is: 95IL-001-043 
+These soils previously correlated Downs in warm mesic areas in Pike County.
+30,806
+
+ 
+
+
+283C2
+Downsouth silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30807 
+The taxonomic unit description is: 95IL-001-043 
+The map unit representative pedon is:???
+These soils previously correlated Downs in warm mesic areas of Pike County.
+30,807
+
+ 
+
+
+403G
+Elizabeth very channery silt loam, 35 to 60 percent slopes
+This map unit linked to dmu: 46898 
+The taxonomic unit description is: OSD pedon 
+The map unit representative pedon is:???Pike Co. TP
+46,898
+
+ 
+
+
+441B
+Wakenda silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30822 
+The taxonomic unit description is: 95IL-001-039 
+The map unit representative pedon is: 95IL-001-039 
+These soils previously correlated Tama in warm mesic areas of Pike County.
+30,822
+
+ 
+
+
+472D2
+Baylis silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 30827 
+The taxonomic unit description is: 95Il-149-032 
+The map unit representative pedon is:???
+30,827
+
+ 
+
+
+472E2
+Baylis silt loam, 15 to 30 percent slopes, eroded
+This map unit linked to dmu: 30828 
+The taxonomic unit description is: 95IL-149-032 
+The map unit representative pedon is: 95IL-149-032
+30,828
+
+ 
+
+
+477B
+Winfield silt loam, 2 to 5 percent slopes
+This map unit linked to dmu: 30831 30829?
+The taxonomic unit description is: 85IL-149-025 
+The map unit representative pedon is: 875IL-149-0215 
+These soils previously correlated Rozetta in warm mesic areas of Pike county.  Water table is 4-6 ft in these soils.
+30,829
+
+ 
+
+
+477C2
+Winfield silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30830 
+The taxonomic unit description is: 85IL-149-025 
+The map unit representative pedon is: 84IL-013-010 
+These soils previously correlated Rozetta in warm mesic areas of Pike County.  Water table is 4-6 ft in these soils.
+30,830
+
+ 
+
+
+477C3
+Winfield silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30831 
+The taxonomic unit description is: 85IL-149-025 
+The map unit representative pedon is: 87IL-149-021 
+These soils previously correlated Rozetta in warm mesic areas in Pike County.  Water table is 4-6 ft in these soils.
+30,831
+
+ 
+
+
+515C2
+Bunkum silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30833 
+The taxonomic unit description is: 97IL-001-022 
+The map unit representative pedon is: 97IL-001-022 
+Previously correlated as Blair in pre-Illinoian till areas of Pike County.  In some areas this soil formed in materials not specified in the OSD, e.g. cretaceous deposits and Illinoian outwash.
+30,833
+
+ 
+
+
+515C3
+Bunkum silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30834 
+The taxonomic unit description is: 97IL-001-022 
+The map unit representative pedon is: ???
+Previously correlated as Blair in pre-Illinoian till areas. In some areas these soils formed in materials not specified on the osd, e.g. cretaceous deposits and Illinoian outwash.
+30,834
+
+ 
+
+
+515D2
+Bunkum silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 30835 
+The taxonomic unit description is: 97IL-001-022 
+The map unit representative pedon is: ???
+Previously correlated Blair in pre-Illinoian till  areas. In some areas these soils formed in materials not specified on the osd, e.g. cretaceous materials, Illinoian outwash.
+30,835
+
+ 
+
+
+515D3
+Bunkum silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30836 
+The taxonomic unit description is: 97IL-001-022 
+The map unit representative pedon is: ???
+Previously correlated Blair in pre-Illinoian till areas. 
+These soils formed in materials not specified in the osd, e.g. cretaceous deposits, Illinoian outwash.
+30,836
+
+ 
+
+
+549E2
+Marseilles silt loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 46900 
+The taxonomic unit description is: 85IL-011-030 (OSD pedon) 
+The map unit representative pedon is: ???
+Previously correlated Gosport.
+46,900
+
+ 
+
+
+549F
+Marseilles silt loam, 18 to 35 percent slopes
+This map unit linked to dmu: 42788 
+The taxonomic unit description is: 85IL-011-030 
+The map unit representative pedon is: 89IL-109-022 
+Previously correlated Gosport.
+42,788
+
+ 
+
+
+549G
+Marseilles silt loam, 35 to 60 percent slopes
+This map unit linked to dmu: 42789 
+The taxonomic unit description is: 85IL-011-030 (OSD pedon) 
+The map unit representative pedon is: 85IL-011-030 
+Previously correlated Gosport.
+42,789
+
+ 
+
+
+559F
+Lindley loam, 18 to 35 percent slopes
+This map unit linked to dmu: 30843 
+The taxonomic unit description is: 96IL-001-073 
+The map unit representative pedon is: 96IL-001-073 
+Previously correlated Hickory or Seaton-Hickory.  These areas have steep wooded slopes in pre-Illinoian till areas.
+30,843
+
+ 
+
+
+559G
+Lindley loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30844 
+The taxonomic unit description is: 96IL-001-073 
+The map unit representative pedon is: ???
+Previously correlated Hickory in pre-Illinoian till areas.
+30,844
+
+ 
+
+
+606F
+Goss gravelly silt loam, 18 to 35 percent slopes
+This map unit linked to dmu: 30845 
+The taxonomic unit description is: 96IL-001-023 
+The map unit representative pedon is: 84IL-013-015
+30,845
+606G
+Goss gravelly silt loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30846 
+The taxonomic unit description is: 96IL-001-023 
+The map unit representative pedon is: 96IL-001-023
+30,846
+
+ 
+
+
+630B2
+Navlys silt loam, 2 to 5 percent slopes, eroded
+This map unit linked to dmu: 47258 
+The taxonomic unit description is: 93IL-057-011 
+The map unit representative pedon is: Navlys replaces Sylvan on slopes less than 10%.
+47,258
+
+ 
+
+
+630C2
+Navlys silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 45601 
+The taxonomic unit description is: 93IL-057-011 
+The map unit representative pedon is: 86IL-149-010 Navlys replaces Sylvan soils on slopes less than 10%.
+45,601
+
+ 
+
+
+630C3
+Navlys silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 29073 
+The taxonomic unit description is: 93IL-057-011 
+The map unit representative pedon is: 93IL-057-011 Navlys replaces Sylvan on slopes less than 10%.
+29,073
+
+ 
+
+
+651D2
+Keswick loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 30851 
+The taxonomic unit description is: 95IL-001-022 
+The map unit representative pedon is: ???
+Previously mapped Hickory and Ursa soils in pre-Illinoian till areas. These soils have water table at 2-3 ft. and are oxyaquic rather than aquic.  They are taxadjuncts that classify as Fine, smectitic, mesic Oxyaquic Vertic Hapludalfs.
+30,851
+
+ 
+
+
+651D3
+Keswick clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30852 
+The taxonomic unit description is: 95IL-001-022 
+The map unit representative pedon is: ???
+Previously mapped Hickory and Ursa in pre-Illinoian till area. These soils have water table at 2-3 ft. and are oxyaquic rather than aquic.  They are taxadjuncts that classify as Fine, smectitic, mesic Oxyaquic Vertic Hapludalfs.
+30,852
+
+ 
+
+
+651E2
+Keswick loam, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 30853 
+The taxonomic unit description is: 95IL-001-022 
+The map unit representative pedon is: 95IL-001-022 
+Previously mapped Hickory and Ursa in pre-Illinoian till area. These soils have water table at 2-3 ft. and are oxyaquic rather than aquic.  They are taxadjuncts that classify as Fine, smectitic, mesic Oxyaquic Vertic Hapludalfs.
+30,853
+
+ 
+
+
+652C2
+Passport silt loam, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: 30854 
+The taxonomic unit description is: 95IL-001-011 
+The map unit representative pedon is: 95IL-001-011 
+Previously mapped Blair in the Illinoian till areas.
+30,854
+
+ 
+
+
+652C3
+Passport silty clay loam, 5 to 10 percent slopes, severely eroded
+This map unit linked to dmu: 30855 
+The taxonomic unit description is: 95IL-001-011 
+The map unit representative pedon is: ???
+Previously mapped Blair in Illinoian till areas.
+30,855
+
+ 
+
+
+652D2
+Passport silt loam, 10 to 18 percent slopes, eroded
+This map unit linked to dmu: 46786 
+The taxonomic unit description is: 95IL-001-011 
+The map unit representative pedon is: ???
+Previously mapped Blair in Illinoian till areas.
+46,786
+
+ 
+
+
+652D3
+Passport silty clay loam, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 46787 
+The taxonomic unit description is: 95IL-001-011 
+The map unit representative pedon is: ???
+Previously mapped Blair in Illinoian till areas.
+46,787
+
+ 
+
+
+655D2
+Ursa silt loam, moderately wet, 10 to 18 percent slopes, erodedSchuyler Co. is also linked to DMU ID 30860, but is not called mod. wet phase and has different rep. Pedons listed? Pedons agree now
+This map unit linked to dmu: 30860 
+The taxonomic unit description is: 95IL-0019-02730(OSD pedon) 
+The map unit representative pedon is: 95IL-0019-02730
+Previously mapped 605D2.  These soils are moderately wet with water table 4-6 ft.  Ursa soils in pre-Illinoian till areas correlated to Keswick.
+30,860
+
+ 
+
+
+655D3
+Ursa silty clay loam, moderately wet, 10 to 18 percent slopes, severely eroded
+This map unit linked to dmu: 30861 
+The taxonomic unit description is: 95IL-001-027 -009-030(OSD pedon) 
+The map unit representative pedon is: 95IL-009-030 
+Previously mapped 605D3.  These soils are moderately wet with water table 4-6 ft.  Ursa soils in pre-Illinoian till areas correlated to Keswick.
+30,861
+
+ 
+
+
+655E2
+Ursa silt loam, moderately wet, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 46902 
+The taxonomic unit description is: 95IL-001-027 -009-030(OSD pedon) 
+The map unit representative pedon is: 95IL-009-030 
+Previously mapped 605E2.  These soils are moderately wet with water table 4-6 ft.  Ursa soils in pre-Illinoian till areas correlated to Keswick.
+46,902
+
+ 
+
+
+699A
+Timewell silt loam, 0 to 2 percent slopes
+This map unit linked to dmu: 46791 
+The taxonomic unit description is: 97IL-009-011 
+The map unit representative pedon is: 97IL-009-011 88IL-169-026
+Previously mapped Herrick in cool mesic area.
+46,791
+
+ 
+
+
+785G
+Lacrescent channery silt loam, 35 to 60 percent slopes
+This map unit linked to dmu: 30863 
+The taxonomic unit description is: 87IL-149-028 
+The map unit representative pedon is: 87IL-149-028 
+These soils have mollic epipedon greater than 24 inches thick.  They are not cumulic because slopes are greater than25% and they are not taxadjuncts.These soils have carbonates above a depth of 20 inches, and have reactions higher than neutral in the A and B horizons They classify as Pachic Hapludolls, and are taxadjuncts??
+30,863
+
+ 
+
+
+835G
+Earthen Dam  
+This map unit linked to dmu: 32991 
+Previously shown as symbol for 'large dam.'
+32,991
+
+ 
+
+
+856E2
+Stookey and Timula soils, 18 to 25 percent slopes, eroded
+This map unit linked to dmu: 46896 
+The taxonomic unit description is: Stookey -- 95IL-001-036
+                                                               Timula  -- 95IL-001-037 
+The map unit representative pedon is: ???
+Previously mapped Seaton or Seaton-Hickory.  In warm mesic areas correlates now to this undifferentiated unit.
+46,896
+
+ 
+
+
+856F
+Stookey and Timula soils, 18 to 35 percent slopes
+This map unit linked to dmu: 30883 
+The taxonomic unit description is: Stookey -- 95IL-001-036
+                                                               Timula  -- 95IL-001-037 
+The map unit representative pedon is: ???
+Previously mapped Seaton or Seaton-Hickory.  In warm mesic areas correlates now to this undifferentiated unit.
+30,883
+
+ 
+
+
+856G
+Stookey and Timula soils, 35 to 60 percent slopes
+This map unit linked to dmu: 30884 
+The taxonomic unit description is: Stookey -- 95IL-001-036
+                                                               Timula  -- 95IL-001-037 
+The map unit representative pedon is: ???85IL-149-019 Stookey
+Previously mapped Seaton or Seaton-Hickory.  In warm mesic areas correlates now to this undifferentiated unit.
+30,884
+
+ 
+
+
+864
+Pits, quarries  
+This map unit linked to dmu: 46015  
+46,015
+
+ 
+
+
+865
+Pits, gravel 
+This map unit linked to dmu: 43941  
+43,941
+
+ 
+
+
+943
+274F
+Seaton-Timula silt loam, 18 to 35 percent slopes
+This map unit linked to dmu: 46939 Fulton Co.
+The taxonomic unit description is: Seaton -- 83IL-195-120
+                                                             Timula -- 95IL-001-037 
+The map unit representative pedon is: ???94IL-057-115
+Previously mapped consociation of Seaton.  This complex soil correlated in cool mesic area only.
+46,939
+
+ 
+
+
+1070L
+Beaucoup silty clay loam, 0 to 2 percent slopes, undrained, occasionally flooded, long duration
+This map unit linked to dmu: 30781 
+The taxonomic unit description is: 95IL-149-032 001-008(OSD pedon) 
+The map unit representative pedon is: 88IL-149-025 Most areas previously mapped 4070L.  These areas in protected areas are not 1070L and in unprotected areas are  3070L.
+30,781
+
+ 
+
+
+3028A
+Jules silt loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 46904 
+The taxonomic unit description is: Marshall Co. pedon 
+The map unit representative pedon is: Marshall Co. pedon 
+These soils are well drained with water table 4-6 ft.
+46,904
+
+ 
+
+
+3070A
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 29048 
+The taxonomic unit description is: 95IL-001-008 (OSD pedon) 
+The map unit representative pedon is: 90IL-169-016
+29,048
+
+ 
+
+
+3070L
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 31120 
+The taxonomic unit description is: 95IL-001-008 (OSD pedon) 
+The map unit representative pedon is: 81IL-017-062
+31,120
+
+ 
+
+
+3071L
+Darwin silty clay, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46664 
+The taxonomic unit description is: 89IL-169-029 
+The map unit representative pedon is: Madison Co. pedon
+46,664
+
+ 
+
+
+3092A
+Sarpy loamy sand, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 46906 
+The taxonomic unit description is: 92IL-203-036 
+The map unit representative pedon is: Pike Co. pedon
+46,906
+
+ 
+
+
+3092L
+Sarpy loamy fine sand, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46907 
+The taxonomic unit description is: 92IL-203-036 
+The map unit representative pedon is: 92IL-203-036
+46,907
+
+ 
+
+
+3162A
+Gorham silty clay loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 43757 
+The taxonomic unit description is: 97IL-001-008 
+The map unit representative pedon is: 97IL-001-008 ???
+Previously mapped Ambraw sandy substratum, frequently flooded.
+43,757
+
+ 
+
+
+3302L
+Ambraw clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46913 
+The taxonomic unit description is: 83IL-017-019 
+The map unit representative pedon is: 83IL-017-019
+These soils lack fluventic properties in some areas.
+46,913
+
+ 
+
+
+3331A
+Haymond silt loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 30809 
+The taxonomic unit description is: 97IL-001-018 
+The map unit representative pedon is: 97IL-001-018 
+These soils are more than 60 inches to the base of the cambic horizon.
+30,809
+
+ 
+
+
+3331L
+Haymond silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46914 
+The taxonomic unit description is: 97IL-017-018 
+The map unit representative pedon is:???
+46,914
+
+ 
+
+
+3333A
+Wakeland silt loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 30810 
+The taxonomic unit description is: 97IL-001-012 
+The map unit representative pedon is: 97IL-001-012
+30,810
+
+ 
+
+
+3333L
+Wakeland silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 29294 
+The taxonomic unit description is: 97IL-001-012 
+The map unit representative pedon is: Monroe Co. pedon
+29,294
+
+ 
+
+
+3404A
+Titus silty clay loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 29055 
+The taxonomic unit description is: 95IL-001-029 
+The map unit representative pedon is: 84IL-195-324
+29,055
+
+ 
+
+
+3404L
+Titus silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46915 
+The taxonomic unit description is: 95IL-001-029 
+The map unit representative pedon is:???
+46,915
+
+ 
+
+
+3415A
+Orion silt loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 29056 
+The taxonomic unit description is: 89IL-169-010 
+The map unit representative pedon is: 83IL-195-132
+29,056
+
+ 
+
+
+3415L
+Orion silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46918 
+The taxonomic unit description is: 89IL-169-010 
+The map unit representative pedon is:???
+46,918
+
+ 
+
+
+3428A
+Coffeen silt loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 32368 
+The taxonomic unit description is: 84IL-195-283 
+The map unit representative pedon is: 84IL-195-283
+32,368
+
+
+
+
+
+ 
+
+
+3428L
+Coffeen silt loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46920 
+The taxonomic unit description is: 84IL-195-283 
+The map unit representative pedon is:???
+46,920
+
+ 
+
+
+3475A
+Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded
+This map unit linked to dmu: 30815 
+The taxonomic unit description is: 97IL-149-032 
+The map unit representative pedon is: 97IL-149-032 
+These soils are less acid than neutral in the C horizon than is typical for the series.
+30,815
+
+ 
+
+
+3475L
+Elsah gravelly loam, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 46922 
+The taxonomic unit description is: 97IL-149-032 
+The map unit representative pedon is: ???
+These soils are less acid than neutral in the C horizon than is typical for the series.
+46,922
+
+
+
+
+3877L
+Blake-Slacwater silt loams, 0 to 2 percent slopes, frequently flooded, long duration
+This map unit linked to dmu: 30821 
+The taxonomic unit description is: 97IL-001-007 Blake
+The taxonomic unit description is: 96IL-001-066 Slacwater
+The map unit representative pedon is:97IL-001-007
+The map unit representative pedon is: 96IL-001-066 Slacwater
+This map unit is added to the legend for join purposes with Adams County.
+30821
+7088A
+Sparta loamy fine sand, 0 to 2 percent slopes, rarely flooded
+This map unit linked to dmu: 46923 
+The taxonomic unit description is: 85IL-149-017 96IL-001-069
+The map unit representative pedon is: 85IL-149-017 ???
+These soils have surface textures that are near the loamy fine sand and fine sandy loam boundary.  The Bw horizon in these soils is thicker than is typical for the series.
+46,923
+
+
+
+
+7242A
+Kendall silt loam, 0 to 2 percent slopes, rarely flooded
+This map unit linked to dmu: 21111 
+The taxonomic unit description is: 98IL-041-022 
+The map unit representative pedon is: ??
+Areas of  Kendall soils on rarely flooded positions will be correlated to this map unit.
+21111
+7430B
+Raddle silt loam, 2 to 5 percent slopes
+This unit is linked to DMU ID 29064 in Schuyler Co. w/ same rep. Pedons, Should these be linked to the same DMU?Yes
+This map unit linked to dmu: 46899 29064
+The taxonomic unit description is: 90IL-057-029 
+The map unit representative pedon is: 90IL-057-029
+46,899
+29064
+
+ 
+
+
+7815B
+Udorthents, silty, undulating, rarely flooded
+This map unit linked to dmu: 46903 
+The map unit representative pedon is: ???
+These soils are in settling basins on flood plains below the bluffs.  Properties vary too widely to classify at the series level.  Some areas have fluventic properties.
+46,903
+
+ 
+
+
+8070A
+Beaucoup silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30865 
+The taxonomic unit description is: 95IL-001-008 
+The map unit representative pedon is: 95IL-001-008
+30,865
+
+ 
+
+
+8071A
+Darwin silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 46925 47156
+The taxonomic unit description is: 89IL-169-029 
+The map unit representative pedon is: 89IL-169-029Has the same rep. Pedon as Schuyler Co., but has different surface texture and is linked to different DMU.See edits
+46,925
+47156
+
+ 
+
+
+8092A
+Sarpy loamy fine sand, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30868 
+The taxonomic unit description is: Pike Woodford Co. typical pedon 
+The map unit representative pedon is: 96IL-001-070 
+These soils have a lower pH in the profile than defined for the series.
+30,868
+
+ 
+
+
+8162A
+Gorham silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30869 
+The taxonomic unit description is: 97IL-001-008 
+The map unit representative pedon is: 97IL-001-008 
+Previously mapped Ambraw sandy substratum, occasionally flooded in areas that are associated with dominantly silty soils.
+30,869
+
+ 
+
+
+8180A
+Dupo silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30872 
+The taxonomic unit description is: 96IL-001-058 
+The map unit representative pedon is: 96IL-001-058
+30,872
+
+ 
+
+
+8183A
+Shaffton silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 29081 
+The taxonomic unit description is: 94IL-057-135 
+The map unit representative pedon is: 94IL-057-135
+29,081
+
+ 
+
+
+8217A
+Twomile silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30873 
+The taxonomic unit description is: 95IL-001-027 
+The map unit representative pedon is: 95IL-001-027 
+These soils are not described with an Egx horizon even though there is some evidence of weak brittleness.
+30,873
+
+ 
+
+
+8284A
+Tice silty clay loam, 0 to 2 percent slopes, occasionally floodedThis unit is linked to DMU 47157 in Schuyler Co., do they join? No
+This map unit linked to dmu: 30874 
+The taxonomic unit description is: 96IL-001-060 
+The map unit representative pedon is: 96IL-001-060
+These soils lack fluventic properties in some areas.
+30,874
+
+ 
+
+
+8288A
+Petrolia silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 44634 
+The taxonomic unit description is: Pike Co. typical pedon 
+The map unit representative pedon is: Pike Co. typical pedon
+44,634
+
+ 
+
+
+8302A
+Ambraw clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 29085 
+The taxonomic unit description is: 83IL-017-019 
+The map unit representative pedon is: 94IL-057-143 This map unit also includes areas previously mapped as Ambraw sandy substratum, occasionally flooded in areas that are dominantly loamy soils.  Areas that are dominantly silty soils, the Ambraw sandy substratum, occasionally flooded soils are correlated Gorham.
+These soils lack fluventic properties in some areas.
+29,085
+
+ 
+
+
+8331A
+Haymond silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 47206 
+The taxonomic unit description is: 97IL-001-018 
+The map unit representative pedon is: Madison Co. pedon 
+These soils are more than 60 inches to the base of the cambic horizon.
+47,206
+
+ 
+
+
+8333A
+Wakeland silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30875 
+The taxonomic unit description is: 97IL-001-012 
+The map unit representative pedon is:???
+30,875
+
+ 
+
+
+8349B
+Zumbro sandy loam, 1 to 6 percent slopes, occasionally flooded.
+This map unit linked to dmu: 30876 
+The taxonomic unit description is: 97IL-001-015 
+The map unit representative pedon is:97IL-001-015
+These soils do not have carbonates above a depth of 60 inches.
+Previously correlated as Sparta.  Occasionally flooded areas will be correlated as Zumbro.
+30876
+8395A
+Ceresco loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 46926 
+The taxonomic unit description is: 85IL-149-018 85IL-149-022
+The map unit representative pedon is: 85IL-149-022 
+These soils have a higher pH in the substratum than is defined for the series.
+46,926
+
+ 
+
+
+8396A
+Vesser silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30877 
+The taxonomic unit description is: 96IL-001-064 
+The map unit representative pedon is: 96IL-001-064
+30,877
+
+ 
+
+
+8404A
+Titus silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30878 
+The taxonomic unit description is: 95IL-001-029 
+The map unit representative pedon is: 95IL-001-029
+30,878
+
+ 
+
+
+8415A
+Orion silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 29087 
+The taxonomic unit description is: 89IL-169-010 
+The map unit representative pedon is: 89IL-169-010
+29,087
+
+ 
+
+
+8428A
+Coffeen silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 46929 
+The taxonomic unit description is: 84IL-195-283 
+The map unit representative pedon is: 81IL-009-004
+46,929
+
+ 
+
+
+8451A
+Lawson silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30879 
+The taxonomic unit description is: 84IL-011-012 
+The map unit representative pedon is: 84IL-011-012
+30,879
+
+ 
+
+
+8452A
+Riley silty clay loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30880 
+The taxonomic unit description is: 96IL-001-001 (OSD pedon) 
+The map unit representative pedon is: 96IL-001-001
+30,880
+
+ 
+
+
+8634A
+Blyton silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 30886 
+The taxonomic unit description is: 97IL-057-147???Suggest calling it Wilbur and use same pedon as in Schuyler. No, profile in Adams Co, 1 mile north of county line has AC profile.
+The map unit representative pedon is: ???
+These soils are correlated for join with Adams County.
+30,886
+
+ 
+
+
+8674A
+Dozaville silt loam, 0 to 2 percent slopes, occasionally flooded
+This map unit linked to dmu: 43072 
+The taxonomic unit description is: OSD pedon 
+The map unit representative pedon is: OSD pedon 
+Previously mapped Raddle of flood plains not part of upland toe slopes.
+43,072
+
+ 
+
+
+8789A
+Ambraw-Ceresco-Sarpy complex, 0 to2 percent slopes, occasionally flooded
+This map unit linked to dmu: 46927 
+The taxonomic unit description is: ???See consociation TUDs
+The map unit representative pedon is:???
+46,927
+
+ 
+
+
+9278A
+Stronghurst silt loam, terrace, 0 to 2 percent slopes
+This map unit linked to dmu: 30797 copy and edit for terraces
+The taxonomic unit description is: 82IL-011-072 
+The map unit representative pedon is:???
+Previously mapped Stronghurst (278A) but on terrace positions. Prefix'9' is now used to denote this landform position.
+
+9278B
+Stronghurst silt loam, terrace, 2 to 5 percent slopes
+This map unit linked to dmu: 30798 copy and edit for terraces
+The taxonomic unit description is: 82IL-011-072 
+The map unit representative pedon is:???
+Previously mapped Stronghurst (278B) but on terrace positions. Prefix'9' is now used to denote this landform position.
+
+9279B
+Rozetta silt loam, terrace, 2 to 5 percent slopes
+This map unit linked to dmu: 43319 
+The taxonomic unit description is: 95IL-057-001 
+The map unit representative pedon is: 94IL-057-158 
+Previously mapped Rozetta (279B) but on terrace positions. Prefix'9' is now used to denote this landform position.
+43,319
+
+
+
+
+9279C
+Rozetta silt loam, terrace, 5 to 10 percent slopes, eroded
+This map unit linked to dmu: Fulton Co. 
+The taxonomic unit description is: 95IL-057-001 
+The map unit representative pedon is: 94IL-057-175 
+Previously mapped Rozetta (279C2) but on terrace positions. Prefix'9' is now used to denote this landform position.
+
+
+
+
+
+MW
+Miscellaneous water
+This map unit is linked to dmu: 46329
+Areas of sewage lagoons previously mapped as water will be correlated to miscellaneous water
+46329
+W
+Water  
+This map unit linked to dmu: 46010  
+46,010
+
+
+Prime Farmland
+Pike County, Illinois
+
+(Only the soils considered prime farmland are listed.  Urban or built-up areas of the soils listed are not considered prime farmland.  If a soil is prime farmland only under certain conditions, the conditions are specified in parentheses after the soil name.)
+
+Map symbol
+
+Soil map unit name
+
+
+17A
+Keomah silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+17B
+Keomah silt loam, 2 to 5 percent slopes
+7037B
+Worthen silt loam, 2 to 5 percent slopes, rarely flooded
+43A
+Ipava silt loam, 0 to 2 percent slopes
+43B
+Ipava silt loam, 2 to 5 percent slopes
+50A
+Virden silty clay loam, 0 to 2 percent slopes (Prime farmland if drained)
+7075B
+Drury silt loam, 2 to 5 percent slopes, rarely flooded
+79B
+Menfro silt loam, 2 to 5 percent slopes
+90A
+Bethalto silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+216B
+Stookey silt loam, 2 to 5 percent slopes
+242A
+Kendall silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+257A
+Clarksdale silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+257B
+Clarksdale silt loam, 2 to 5 percent slopes
+267A
+Caseyville silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+267B
+Caseyville silt loam, 2 to 5 percent slopes
+274B
+Seaton silt loam, 2 to 5 percent slopes
+278A
+Stronghurst silt loam, 0 to 2 percent slopes (Prime farmland if drained)
+279B
+Rozetta silt loam, 2 to 5 percent slopes
+280B
+Fayette silt loam, 2 to 5 percent slopes
+283B
+Downsouth silt loam, 2 to 5 percent slopes
+441B
+Wakenda silt loam, 2 to 5 percent slopes
+477B
+Winfield silt loam, 2 to 5 percent slopes
+630B2
+Navlys silt loam, 2 to 5 percent slopes, eroded
+699A
+Timewell silt loam, 0 to 2 percent slopes
+3028A
+Jules silt loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if protected from flooding or not frequently flooded during the growing season)
+3070A
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if drained and either protected from flooding or not frequently flooded during the growing season)I question if this unit should be prime since it has long duration flooding! It is the only freq, flooded, long duration unit that is listed as prime! See cover letter regarding same comment pertaining to 3070L
+3070L
+Beaucoup silty clay loam, 0 to 2 percent slopes, frequently flooded, long duration (Prime farmland if drained and either protected from flooding or not frequently flooded during the growing season)
+3162A
+Gorham silty clay loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if drained and either protected from flooding or not frequently flooded during the growing season)
+3331A
+Haymond silt loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if protected from flooding or not frequently flooded during the growing season)
+3333A
+Wakeland silt loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if drained and either protected from flooding or not frequently flooded during the growing season)
+3404A
+Titus silty clay loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if drained and either protected from flooding or not frequently flooded during the growing season)
+3415A
+Orion silt loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if protected from flooding or not frequently flooded during the growing season)
+3428A
+Coffeen silt loam, 0 to 2 percent slopes, frequently flooded (Prime farmland if protected from flooding or not frequently flooded during the growing season)
+3475A
+Elsah- should this be prime, listed as P3 in handbook
+7242A
+Kendall silt loam, 0 to 2 percent slopes, rarely flooded
+7430B
+Raddle silt loam, 2 to 5 percent slopes, rarely flooded
+8070A
+Beaucoup silty clay loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8071A
+Darwin silty clay loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8162A
+Gorham silty clay loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8180A
+Dupo silt loam, 0 to 2 percent slopes, occasionally flooded
+8183A
+Shaffton silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8217A
+Twomile silt loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8284A
+Tice silt loam, 0 to 2 percent slopes, occasionally flooded
+8288A
+Petrolia silt loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8302A
+Ambraw loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8331A
+Haymond silt loam, 0 to 2 percent slopes, occasionally flooded 
+8333A
+Wakeland silt loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8395A
+Ceresco loam, 0 to 2 percent slopes, occasionally flooded 
+8396A
+Vesser silt loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8404A
+Titus silty clay loam, 0 to 2 percent slopes, occasionally flooded (Prime farmland if drained)
+8415A
+Orion silt loam, 0 to 2 percent slopes, occasionally flooded
+8428A
+Coffeen silt loam, 0 to 2 percent slopes, occasionally flooded
+8451A
+Lawson silt loam, 0 to 2 percent slopes, occasionally flooded
+8452A
+Riley silty clay loam, 0 to 2 percent slopes, occasionally flooded
+8634A
+Blyton silt loam, 0 to 2 percent slopes, occasionally flooded
+8674A
+Dozaville silt loam, 0 to 2 percent slopes, occasionally flooded
+9278A
+Stronghurst silt loam, terrace, 0 to 2 percent slopes (Prime farmland if drained)
+9278B
+Stronghurst silt loam, terrace, 2 to 5 percent slopes
+9279B
+Rozetta silt loam, terrace, 2 to 5 percent slopes
+
+
+
+
+Classification of the Soils of
+Pike County, Illinois
+
+(An asterisk in the first column indicates a taxadjunct to the series. See text for a description of those characteristics that are outside the range of the series.)
+
+
+Soil name
+
+Family or higher taxonomic class
+
+
+Ambraw
+Fine-loamy, mixed, superactive, mesic Fluvaquentic Endoaquolls
+ Baylis
+Fine-silty, mixed, superactive, mesic Typic Paleudalfs
+ Beaucoup
+Fine-silty, mixed, superactive, mesic Fluvaquentic Endoaquolls
+ Bethalto
+Fine-silty, mixed, superactive, mesic Udollic Endoaqualfs
+ Blake
+Fine-silty, mixed, superactive, calcareous, mesic Aquic Udifluvents
+ Blyton
+Coarse-silty, mixed, superactive, nonacid, mesic Oxyaquic Udifluvents
+ Bunkum
+Fine-silty, mixed, superactive, mesic Aquic Hapludalfs
+*Caseyville
+Fine-silty, mixed, superactive, mesic Aeric Endoaqualfs
+ Ceresco
+Coarse-loamy, mixed, superactive, mesic Fluvaquentic Hapludolls
+ Clarksdale
+Fine, smectitic, mesic Udollic Endoaqualfs
+ Coffeen
+Coarse-silty, mixed, superactive, mesic Fluvaquentic Hapludolls
+ Darwin
+Fine, smectitic, mesic Fluvaquentic Vertic Endoaquolls
+ Downsouth
+Fine-silty, mixed, superactive, mesic Oxyaquic Hapludalfs
+ Dozaville
+Fine-silty, mixed, superactive, mesic Fluventic Hapludolls
+ Drury
+Fine-silty, mixed, superactive, mesic Dystric Eutrudepts
+ Dupo
+Coarse-silty over clayey, mixed over smectitic, superactive, nonacid, mesic Aquic Udifluvents
+ El Dara
+Fine-loamy, mixed, active, mesic Oxyaquic Hapludalfs
+ Elco
+Fine-silty, mixed, superactive, mesic Oxyaquic Hapludalfs
+ Elizabeth
+Loamy-skeletal, mixed, superactive, mesic Lithic Hapludolls
+ Elsah
+Loamy-skeletal, mixed, superactive, nonacid, mesic Typic Udifluvents
+ Fayette
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Gorham
+Fine-silty, mixed, superactive, mesic Fluvaquentic Endoaquolls
+ Goss
+Clayey-skeletal, mixed, active, mesic Typic Paleudalfs
+ Hamburg
+Coarse-silty, mixed, active, calcareous, mesic Typic Udorthents
+ Haymond
+Coarse-silty, mixed, superactive, mesic Dystric Fluventic Eutrudepts
+ Hickory
+Fine-loamy, mixed, active, mesic Typic Hapludalfs
+ Ipava
+Fine, smectitic, mesic Aquic Argiudolls
+ Jules
+Coarse-silty, mixed, superactive, calcareous, mesic Typic Udifluvents
+ Kendall
+Fine-silty, mixed, superactive, mesic Aeric Endoaqualfs
+ Keomah
+Fine, smectitic, mesic Aeric Endoaqualfs
+*Keswick
+Fine, smectitic, mesic Aquertic Chromic Hapludalfs
+*Lacrescent?
+Loamy-skeletal, mixed, superactive, mesic Typic Hapludolls
+ Lamont
+Coarse-loamy, mixed, superactive, mesic Typic Hapludalfs
+ Lawson
+Fine-silty, mixed, superactive, mesic Aquic Cumulic Hapludolls
+ Lindley
+Fine-loamy, mixed, superactive, mesic Typic Hapludalfs
+ Marseilles
+Fine-silty, mixed, active, mesic Typic Hapludalfs
+ Menfro
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Navlys
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Orion
+Coarse-silty, mixed, superactive, nonacid, mesic Aquic Udifluvents
+ Passport
+Fine-loamy, mixed, superactive, mesic Aquic Hapludalfs
+ Petrolia
+Fine-silty, mixed, superactive, nonacid, mesic 
+ Raddle
+Fine-silty, mixed, superactive, mesic Typic Hapludolls
+ Riley
+Fine-loamy over sandy or sandy-skeletal, mixed, superactive, mesic Fluvaquentic Hapludolls
+ Rozetta
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Sarpy
+Mixed, mesic Typic Udipsamments
+ Slacwater
+Fine-silty, mixed, superactive, calcareous, mesic Mollic Fluvaquents
+ Seaton
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Shaffton
+Fine-loamy, mixed, superactive, mesic Fluvaquentic Hapludolls
+ Sparta
+Sandy, mixed, mesic Entic Hapludolls
+ Stookey
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+Stronghurst
+Fine-silty, mixed, superactive, mesic Aeric Endoaqualfs
+ Sylvan
+Fine-silty, mixed, superactive, mesic Typic Hapludalfs
+ Tice
+Fine-silty, mixed, superactive, mesic Fluvaquentic Hapludolls
+ Timewell
+Fine, smectitic, mesic Aquic Argiudolls
+ Timula
+Coarse-silty, mixed, superactive, mesic Typic Eutrudepts
+ Titus
+Fine, smectitic, mesic Vertic Endoaquolls
+ Twomile
+Fine-silty, mixed, active, mesic Typic Albaqualfs
+ Udorthents
+Fine-silty, mixed, active, nonacid, mesic Aquic Udorthents
+ Ursa
+Fine, smectitic, mesic Chromic Vertic Hapludalfs
+ Vesser
+Fine-silty, mixed, superactive, mesic Argiaquic Argialbolls
+ Virden
+Fine, smectitic, mesic Vertic Argiaquolls
+ Wakeland
+Coarse-silty, mixed, superactive, nonacid, mesic Aeric Fluvaquents
+ Wakenda
+Fine-silty, mixed, superactive, mesic Typic Argiudolls
+ Winfield
+Fine-silty, mixed, superactive, mesic Oxyaquic Hapludalfs
+ Worthen
+Fine-silty, mixed, superactive, mesic Cumulic Hapludolls
+ Zumbro
+Sandy, mixed, mesic Entic Hapludolls
+
+
+
+
+Certification Statement
+
+
+The MLRA Region 11 Team Leader certifies that:
+
+a.The fieldwork activities were completed in 4th quarter FY 2000.
+
+b. Pike County joins three modern soil surveys:
+
+Adams County - SSURGO certified 2001
+Brown County - Modern soil survey (1998)
+Calhoun County - Modern soil survey (1989)
+
+An exact join has been completed with Adams County.  The remaining counties have an acceptable join and will have an exact join when they are updated to the MLRA legend.
+
+c.Interpretations have been coordinated and agree with adjoining survey areas.
+
+d.The locations of all typical pedons have been checked for accuracy, and that they occur in delineations using those names.  Typical pedons are those that represent the taxonomic units in MLRA 115C.  Not all typical pedons are located in Pike County but are within other subsets of the MLRA.
+
+e.All typical pedons are classified according to Soil Taxonomy, Second Edition, 1999.
+
+f.The digital soil maps, once complete, will be reviewed for accuracy and consistency prior to certification.
+
+
+Approval Signature and Date:
+
+
+
+___________________     ________                              ___________________     __________
+Travis NeelyDateWilliam J. GradleDate
+Team Leader, MLRA Region 11State Conservationist
+Indianapolis, IndianaChampaign, Illinois
+
+43
+
+
+38",11867,67785
+06/16/2003 00:00:00,Correlation notes,DMU List revised,NA,"Data map unit numbers linked to Pike County Map Units, Rev 6-16-03                                               
+                                  
+
+ ___________________
+|        |        |
+|  Map   | DMU ID |
+| symbol |        |
+|________|________|
+|        |        |
+| 8D2    | 155,589|
+| 8D3    | 151,229|
+| 8E2    | 141,746|
+| 8F     | 141,747|
+| 8G     | 141,748|
+| 17A    | 141,750|
+| 17B    | 141,751|
+| 19D3   | 140,146|
+| 30F    | 140,216|
+| 30G    | 153,688|
+| 43A    | 139,401|
+| 43B    | 155,397|
+| 50A    | 152,851|
+| 75C    | 140,221|
+| 75C2   | 141,757|
+| 79B    | 141,758|
+| 79C2   | 141,759|
+| 79C3   | 141,760|
+| 79D2   | 141,761|
+| 79D3   | 141,762|
+| 79E2   | 155,729|
+| 90A    | 141,766|
+| 119D2  | 155,289|
+| 119D3  | 155,413|
+| 119E2  | 140,155|
+| 175F   | 141,770|
+| 175G   | 141,771|
+| 216B   | 141,772|
+| 216C2  | 141,773|
+| 216C3  | 141,774|
+| 216D2  | 141,775|
+| 216D3  | 141,776|
+| 257A   | 141,777|
+| 257B   | 141,778|
+| 264D3  | 141,781|
+| 264E2  | 141,782|
+| 264G   | 141,783|
+| 267A   | 141,784|
+| 267B   | 141,785|
+| 271C3  | 153,950|
+| 271D3  | 153,951|
+| 274F   | 140,164|
+| 274G   | 441,001|
+| 278A   | 151,307|
+| 279B   | 141,790|
+| 279C2  | 140,166|
+
+
+
+
+
+
+
+
+
+
+___________________
+|        |        |
+|  Map   | DMU ID |
+| symbol |        |
+|________|________|
+|        |        |
+| 279C3  | 141,792|
+| 280B   | 142,746|
+| 280C2  | 139,433|
+| 280C3  | 151,311|
+| 280D2  | 140,168|
+| 280D3  | 155,592|
+| 283B   | 141,793|
+| 283C2  | 141,794|
+| 403G   | 155,730|
+| 441B   | 141,809|
+| 472D2  | 141,814|
+| 472E2  | 141,815|
+| 477B   | 141,816|
+| 477C2  | 141,817|
+| 477C3  | 141,818|
+| 515C2  | 141,820|
+| 515C3  | 141,821|
+| 515D2  | 141,822|
+| 515D3  | 141,823|
+| 549E2  | 155,732|
+| 549F   | 152,596|
+| 549G   | 152,597|
+| 559F   | 141,830|
+| 559G   | 141,831|
+| 605D2  | 141,847|
+| 605D3  | 141,848|
+| 605E2  | 155,733|
+| 606F   | 141,832|
+| 606G   | 141,833|
+| 630B2  | 156,108|
+| 630C2  | 154,987|
+| 630C3  | 140,188|
+| 651D2  | 141,838|
+| 651D3  | 141,839|
+| 651E2  | 141,840|
+| 652C2  | 141,841|
+| 652C3  | 141,842|
+| 652D2  | 153,573|
+| 652D3  | 153,686|
+| 699A   | 153,691|
+| 785G   | 141,850|
+| 835G   | 143,266|
+| 856E2  | 155,728|
+| 856F   | 141,870|
+| 856G   | 141,871|
+| 864    | 155,280|
+| 865    | 153,492|
+| 1070A  | 141,768|
+| 3028A  | 155,735|
+
+
+
+
+
+
+
+___________________
+|        |        |
+|  Map   | DMU ID |
+| symbol |        |
+|________|________|
+|        |        |
+| 3070A  | 140,170|
+| 3070L  | 142,107|
+| 3071L  | 151,645|
+| 3092A  | 155,736|
+| 3092L  | 155,819|
+| 3302L  | 155,824|
+| 3331A  | 141,796|
+| 3331L  | 155,825|
+| 3333A  | 141,797|
+| 3333L  | 140,242|
+| 3404A  | 140,175|
+| 3404L  | 155,826|
+| 3415A  | 140,176|
+| 3415L  | 155,829|
+| 3428A  | 142,756|
+| 3428L  | 155,831|
+| 3475A  | 141,802|
+| 3475L  | 155,832|
+| 3877L  | 141,808|
+| 7037B  | 156,350|
+| 7075B  | 156,351|
+| 7242A  | 450,442|
+| 7430B  | 155,731|
+| 7815B  | 155,734|
+| 8070A  | 141,852|
+| 8071A  | 155,835|
+| 8092A  | 141,855|
+| 8162A  | 141,856|
+| 8180A  | 141,859|
+| 8183A  | 140,194|
+| 8217A  | 141,860|
+| 8284A  | 141,861|
+| 8288A  | 443,737|
+| 8302A  | 140,196|
+| 8331A  | 156,070|
+| 8333A  | 141,862|
+| 8349B  | 141,863|
+| 8395A  | 155,836|
+| 8396A  | 446,080|
+| 8404A  | 141,865|
+| 8415A  | 140,197|
+| 8428A  | 155,839|
+| 8451A  | 141,866|
+| 8452A  | 141,867|
+| 8634A  | 141,873|
+| 8674A  | 447,007|
+| 8789A  | 155,837|
+| 9278A  | 151,135|
+| 9278B  | 399,100|
+| 9279B  | 152,950|
+| 9279C2 | 152,951|
+| M-W    | 155,361|
+| W      | 155,171|
+|________|________|",11867,67786

@@ -1,0 +1,22 @@
+texture,stratextsflag,rvindicator,texdesc,chkey,chtgkey
+SIL,No ,Yes,Silt loam,51118630,102144047
+SIL,No ,Yes,Silt loam,51118631,102144048
+SIL,No ,Yes,Silt loam,51118632,102144049
+L,No ,No ,Loam,51118632,102144050
+SL,No ,No ,Sandy loam,51118632,102144051
+CN-SIL,No ,Yes,Channery silt loam,51118805,102144380
+CN-SICL,No ,No ,Channery silty clay loam,51118805,102144381
+CNV-SIL,No ,No ,Very channery silt loam,51118805,102144382
+CN-CL,No ,No ,Channery clay loam,51118805,102144383
+CN-SCL,No ,No ,Channery sandy clay loam,51118805,102144384
+CNV-L,No ,No ,Very channery loam,51118805,102144385
+GR-L,No ,No ,Gravelly loam,51118805,102144386
+GR-FSL,No ,No ,Gravelly fine sandy loam,51118805,102144387
+SCL,No ,No ,Sandy clay loam,51118805,102144388
+BR,No ,Yes,Bedrock,51118806,102144389
+SIL,No ,Yes,Silt loam,51118807,102144390
+SICL,No ,No ,Silty clay loam,51118807,102144391
+SIL,No ,No ,Silt loam,51118808,102144392
+SICL,No ,Yes,Silty clay loam,51118808,102144393
+SIL,No ,Yes,Silt loam,51118809,102144394
+SICL,No ,No ,Silty clay loam,51118809,102144395
