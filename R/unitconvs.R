@@ -29,9 +29,9 @@ saf_buac_to_kgha_corn <- function(dat_buac) {
 
 #' saf_kgha_to_buac_corn
 #'
-#' @param dat_buac A vector of corn yields in bushels per acre
+#' @param dat_kgha A vector of corn yields in bushels per acre
 #'
-#' @return A vector of corn yields in dry kilograms per hectare; adjusted for the 15% moisture the bu/ac are reported at
+#' @return A vector of corn yields in bushels per acre; adjusted for the 15% moisture the bu/ac are reported at
 #' @export
 #'
 saf_kgha_to_buac_corn <- function(dat_kgha) {

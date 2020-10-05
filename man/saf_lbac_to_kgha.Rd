@@ -10,7 +10,7 @@ saf_lbac_to_kgha(dat_lbac)
 \item{dat_lbac}{A vector of values in pounds per acre}
 }
 \value{
-A vector of values in kilograms per hectare (multiplied by 1.123)
+A vector of values in kilograms per hectare; multiplied by 1.123
 }
 \description{
 saf_lbac_to_kgha

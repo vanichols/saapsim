@@ -2,7 +2,7 @@
 % Please edit documentation in R/unitconvs.R
 \name{saf_buac_to_kgha_corn}
 \alias{saf_buac_to_kgha_corn}
-\title{saf_lbac_to_kgha}
+\title{saf_buac_to_kgha_corn}
 \usage{
 saf_buac_to_kgha_corn(dat_buac)
 }
@@ -10,8 +10,8 @@ saf_buac_to_kgha_corn(dat_buac)
 \item{dat_buac}{A vector of corn yields in bushels per acre}
 }
 \value{
-A vector of corn yields in kilograms per hectare (adjusted for the 15\% moisture the bu/ac are reported at)
+A vector of corn yields in dry kilograms per hectare; adjusted for the 15\% moisture the bu/ac are reported at
 }
 \description{
-saf_lbac_to_kgha
+saf_buac_to_kgha_corn
 }
